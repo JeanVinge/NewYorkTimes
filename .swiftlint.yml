@@ -1,0 +1,16 @@
+excluded:
+  - vendor
+
+disabled_rules:
+
+function_body_length:
+  - 50
+
+identifier_name:
+  min_length: 1
+  max_length:
+    warning: 50
+    error: 100
+  excluded:
+    - id
+    - URL

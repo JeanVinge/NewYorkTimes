@@ -1,0 +1,8 @@
+"news.navigation" = "For You";
+
+"empty.state.title" = "Sorry, we were not able to refresh this page =(.";
+"empty.state.button" = "try again";
+
+"tabbar.emailed" = "Emailed";
+"tabbar.shared" = "Shared";
+"tabbar.viewed" = "Viewed";
