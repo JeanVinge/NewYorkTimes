@@ -1,0 +1,1250 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/025e2891-057d-5f4c-8c84-604c088f13a2",
+      "url": "https://www.nytimes.com/2020/06/15/opinion/coronavirus-college-safe.html",
+      "id": 100000007185873,
+      "asset_id": 100000007185873,
+      "source": "New York Times",
+      "published_date": "2020-06-15",
+      "updated": "2020-06-18 16:30:10",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Colleges and Universities;Coronavirus (2019-nCoV);Coronavirus Reopenings;Age, Chronological;Youth;Coronavirus Risks and Safety Concerns;United States",
+      "column": null,
+      "byline": "By Laurence Steinberg",
+      "type": "Article",
+      "title": "Expecting Students to Play It Safe if Colleges Reopen Is a Fantasy",
+      "abstract": "Safety plans border on delusional and could lead to outbreaks of Covid-19 among students, faculty and staff.",
+      "des_facet": [
+        "Colleges and Universities",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings",
+        "Age, Chronological",
+        "Youth",
+        "Coronavirus Risks and Safety Concerns"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students on the campus of Columbia University in March.",
+          "copyright": "Hiroko Masuike/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/opinion/15steinbergWeb/15steinbergWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/opinion/15steinbergWeb/merlin_170402568_075aac78-e234-4bb4-a460-a53fbda9709d-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/opinion/15steinbergWeb/merlin_170402568_075aac78-e234-4bb4-a460-a53fbda9709d-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9fc9855b-ebb9-5051-8dd0-c6d4aa9539e5",
+      "url": "https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html",
+      "id": 100000007202296,
+      "asset_id": 100000007202296,
+      "source": "New York Times",
+      "published_date": "2020-06-21",
+      "updated": "2020-06-22 10:51:12",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2020;Social Media;Teenagers and Adolescence;Hoaxes and Pranks;Demonstrations, Protests and Riots;Pop and Rock Music;Trump, Donald J;TikTok (ByteDance);Twitter;Tulsa (Okla);South Korea",
+      "column": null,
+      "byline": "By Taylor Lorenz, Kellen Browning and Sheera Frenkel",
+      "type": "Article",
+      "title": "TikTok Teens and K-Pop Stans Say They Sank Trump Rally",
+      "abstract": "Did a successful prank inflate attendance expectations for President Trump’s rally in Tulsa, Okla.?",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Social Media",
+        "Teenagers and Adolescence",
+        "Hoaxes and Pranks",
+        "Demonstrations, Protests and Riots",
+        "Pop and Rock Music"
+      ],
+      "org_facet": [
+        "TikTok (ByteDance)",
+        "Twitter"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)",
+        "South Korea"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Many of the arena’s 19,000 seats remained empty as Mr. Trump spoke.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20trump-tulsa-n5/20trump-tulsa-n5-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20trump-tulsa-n5/20trump-tulsa-n5-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20trump-tulsa-n5/20trump-tulsa-n5-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/80e600c6-f158-5cfe-b2c0-6481fb1d4952",
+      "url": "https://www.nytimes.com/2020/06/17/dining/olive-loaf-recipe-coronavirus.html",
+      "id": 100000007196292,
+      "asset_id": 100000007196292,
+      "source": "New York Times",
+      "published_date": "2020-06-17",
+      "updated": "2020-06-18 09:36:26",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Quarantine (Life and Culture);Cooking and Cookbooks;Bakeries and Baked Products;Recipes",
+      "column": null,
+      "byline": "By Melissa Clark",
+      "type": "Article",
+      "title": "A Savory Loaf Packed With Cheese and Olives",
+      "abstract": "Stack slices with tomato and onions, spread with tapenade or eat plain for a simple snack.",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Cooking and Cookbooks",
+        "Bakeries and Baked Products",
+        "Recipes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Melissa Clark/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/dining/17pantry-blog/17pantry-blog-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/dining/17pantry-blog/17pantry-blog-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/dining/17pantry-blog/17pantry-blog-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ff3a7f8c-2e43-502c-871c-b5d91b67fa86",
+      "url": "https://www.nytimes.com/2020/06/16/health/coronavirus-toilets-flushing.html",
+      "id": 100000007193321,
+      "asset_id": 100000007193321,
+      "source": "New York Times",
+      "published_date": "2020-06-16",
+      "updated": "2020-06-19 13:33:38",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Coronavirus (2019-nCoV);Bathrooms and Toilets;Coronavirus Risks and Safety Concerns;Research;Hygiene and Cleanliness;Feces;your-feed-science;your-feed-health;Wang, Ji-Xiang;Physics of Fluids (Journal)",
+      "column": null,
+      "byline": "By Knvul Sheikh",
+      "type": "Article",
+      "title": "Flushing the Toilet May Fling Coronavirus Aerosols All Over",
+      "abstract": "A new study shows how turbulence from a toilet bowl can create a large plume that is potentially infectious to a bathroom’s next visitor.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Bathrooms and Toilets",
+        "Coronavirus Risks and Safety Concerns",
+        "Research",
+        "Hygiene and Cleanliness",
+        "Feces",
+        "your-feed-science",
+        "your-feed-health"
+      ],
+      "org_facet": [
+        "Physics of Fluids (Journal)"
+      ],
+      "per_facet": [
+        "Wang, Ji-Xiang"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "John Greim/LightRocket, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/science/16VIRUS-FLUSH/16VIRUS-FLUSH-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/science/16VIRUS-FLUSH/16VIRUS-FLUSH-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/science/16VIRUS-FLUSH/16VIRUS-FLUSH-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ccf4a9d3-568f-5b05-84c5-ae685acd47b7",
+      "url": "https://www.nytimes.com/2020/06/15/us/gay-transgender-workers-supreme-court.html",
+      "id": 100000007069961,
+      "asset_id": 100000007069961,
+      "source": "New York Times",
+      "published_date": "2020-06-15",
+      "updated": "2020-06-16 23:26:21",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Discrimination;Homosexuality and Bisexuality;Workplace Hazards and Violations;Transgender and Transsexuals;Civil Rights and Liberties;Decisions and Verdicts;Law and Legislation;Gorsuch, Neil M;Alito, Samuel A Jr;Stephens, Aimee;Bostock, Gerald;Zarda, Donald (1970-2014);Supreme Court (US);Equal Employment Opportunity Commission;RG & GR Harris Funeral Homes Inc",
+      "column": null,
+      "byline": "By Adam Liptak",
+      "type": "Article",
+      "title": "Civil Rights Law Protects Gay and Transgender Workers, Supreme Court Rules",
+      "abstract": "The court said the language of the Civil Rights Act of 1964, which prohibits sex discrimination, applies to discrimination based on sexual orientation and gender identity.",
+      "des_facet": [
+        "Discrimination",
+        "Homosexuality and Bisexuality",
+        "Workplace Hazards and Violations",
+        "Transgender and Transsexuals",
+        "Civil Rights and Liberties",
+        "Decisions and Verdicts",
+        "Law and Legislation"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Equal Employment Opportunity Commission",
+        "RG & GR Harris Funeral Homes Inc"
+      ],
+      "per_facet": [
+        "Gorsuch, Neil M",
+        "Alito, Samuel A Jr",
+        "Stephens, Aimee",
+        "Bostock, Gerald",
+        "Zarda, Donald (1970-2014)"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tiffany Munroe on Sunday in Brooklyn during a rally to call attention to violence against transgender people of color.",
+          "copyright": "Demetrius Freeman for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/us/politics/15dc-scotus-lgbt/15dc-scotus-lgbt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/us/politics/15dc-scotus-lgbt/merlin_173534901_83f3865e-6ba4-4f1b-8d6c-a7f54db8cce8-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/us/politics/15dc-scotus-lgbt/merlin_173534901_83f3865e-6ba4-4f1b-8d6c-a7f54db8cce8-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1f4c50de-ec2e-5f47-b4d2-65ed33b192d2",
+      "url": "https://www.nytimes.com/2020/06/15/well/live/breathing-masks-coronavirus.html",
+      "id": 100000007177286,
+      "asset_id": 100000007177286,
+      "source": "New York Times",
+      "published_date": "2020-06-15",
+      "updated": "2020-06-18 09:38:41",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Masks;Protective Clothing and Gear;Nose;Coronavirus (2019-nCoV);Oxygen;Carbon Dioxide;Lungs",
+      "column": null,
+      "byline": "By Jane E. Brody",
+      "type": "Article",
+      "title": "Looking at Masks and Respiratory Health",
+      "abstract": "Even without a mask as an impediment, many people breathe in ways that compromise their well-being.",
+      "des_facet": [
+        "Masks",
+        "Protective Clothing and Gear",
+        "Nose",
+        "Coronavirus (2019-nCoV)",
+        "Oxygen",
+        "Carbon Dioxide",
+        "Lungs"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gracia Lam",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/well/16SCI-BRODY-art/16SCI-BRODY-art-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/well/16SCI-BRODY-art/16SCI-BRODY-art-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/well/16SCI-BRODY-art/16SCI-BRODY-art-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/cbebdd89-923d-5d77-b30d-9c71613c6ac3",
+      "url": "https://www.nytimes.com/2020/06/19/nyregion/par-jigsaw-puzzles-lockdown.html",
+      "id": 100000007194294,
+      "asset_id": 100000007194294,
+      "source": "New York Times",
+      "published_date": "2020-06-19",
+      "updated": "2020-06-19 09:51:37",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Puzzles;Coronavirus (2019-nCoV)",
+      "column": null,
+      "byline": "By John D. Tulenko",
+      "type": "Article",
+      "title": "Soaring Sales for $4,500 Puzzles? In a Lockdown, It All Fits",
+      "abstract": "A small Long Island business that cuts one-of-a-kind jigsaw puzzles gets a lift amid the fallout from the pandemic.",
+      "des_facet": [
+        "Puzzles",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;Kaleidoscope,&rdquo; a puzzle made by Par Puzzles, a father-and-son business on Long Island that has seen an increase in demand for its products amid the coronavirus pandemic.",
+          "copyright": "Johnny Milano for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/nyregion/19puzzles-lede/merlin_173339211_b2c9f63d-f258-49be-b85d-99c02dcd014f-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/nyregion/19puzzles-lede/merlin_173339211_b2c9f63d-f258-49be-b85d-99c02dcd014f-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/nyregion/19puzzles-lede/merlin_173339211_b2c9f63d-f258-49be-b85d-99c02dcd014f-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f8da7d9f-dec8-559e-ad96-bc30245a846a",
+      "url": "https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html",
+      "id": 100000007182686,
+      "asset_id": 100000007182686,
+      "source": "New York Times",
+      "published_date": "2020-06-18",
+      "updated": "2020-06-22 17:13:54",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Content Type: Service;Post-Traumatic Stress Disorder;Psychology and Psychologists;Anxiety and Stress",
+      "column": null,
+      "byline": "By Eilene Zimmerman",
+      "type": "Article",
+      "title": "What Makes Some People More Resilient Than Others",
+      "abstract": "The very earliest days of our lives, and our closest relationships, can offer clues about how we cope with adversity.",
+      "des_facet": [
+        "Content Type: Service",
+        "Post-Traumatic Stress Disorder",
+        "Psychology and Psychologists",
+        "Anxiety and Stress"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Monika Aichele",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/25c5caf1-259b-59d2-a396-5d71b313103f",
+      "url": "https://www.nytimes.com/2020/06/19/opinion/tulsa-race-riot-massacre-graves.html",
+      "id": 100000007024426,
+      "asset_id": 100000007024426,
+      "source": "New York Times",
+      "published_date": "2020-06-19",
+      "updated": "2020-06-21 08:45:47",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Black People;Discrimination;Looting (Crime);Lynching;Vigilantes;Race and Ethnicity;Deaths (Fatalities);Hooker, Olivia (1915-2018);Ku Klux Klan;Tulsa (Okla)",
+      "column": null,
+      "byline": "By Brent Staples",
+      "type": "Article",
+      "title": "The Burning of Black Wall Street, Revisited",
+      "abstract": "Nearly a century after the Tulsa Race Massacre, the search for the dead continues.",
+      "des_facet": [
+        "Black People",
+        "Discrimination",
+        "Looting (Crime)",
+        "Lynching",
+        "Vigilantes",
+        "Race and Ethnicity",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [
+        "Ku Klux Klan"
+      ],
+      "per_facet": [
+        "Hooker, Olivia (1915-2018)"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some of the ruins from the Tulsa Race Massacre in June 1921, when white vigilantes set the Oklahoma city&rsquo;s African-American district ablaze.",
+          "copyright": "Bettmann Archive/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/opinion/21tulsa-top-right/19tulsa4-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/opinion/21tulsa-top-right/19tulsa4-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/opinion/21tulsa-top-right/19tulsa4-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1ee30cf5-6dad-534e-a9cf-148ed7b85e4a",
+      "url": "https://www.nytimes.com/2020/06/22/opinion/coronavirus-reopen-hospitals.html",
+      "id": 100000007198649,
+      "asset_id": 100000007198649,
+      "source": "New York Times",
+      "published_date": "2020-06-22",
+      "updated": "2020-06-23 10:46:10",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus (2019-nCoV);Health Insurance and Managed Care;Hospitals;Preventive Medicine;United States",
+      "column": null,
+      "byline": "By Sandeep Jauhar",
+      "type": "Article",
+      "title": "People Have Stopped Going to the Doctor. Most Seem Just Fine.",
+      "abstract": "Do Americans really need the amount of treatment that our health care system is used to providing?",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Health Insurance and Managed Care",
+        "Hospitals",
+        "Preventive Medicine"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In a recent survey, only one in 10 respondents said their or a family member’s health had worsened as a result of delayed care during the pandemic.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/opinion/22jauharWeb/22jauharWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/opinion/22jauharWeb/merlin_172404543_fe6210ed-8e56-49bc-8991-ef304dee5c77-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/opinion/22jauharWeb/merlin_172404543_fe6210ed-8e56-49bc-8991-ef304dee5c77-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e244fd62-c312-5db4-aca6-0cd855b16004",
+      "url": "https://www.nytimes.com/2020/06/16/opinion/trump-coronavirus.html",
+      "id": 100000007193927,
+      "asset_id": 100000007193927,
+      "source": "New York Times",
+      "published_date": "2020-06-16",
+      "updated": "2020-06-17 16:48:50",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus Risks and Safety Concerns;Coronavirus Reopenings;Chemistry;Biology and Biochemistry;Vaccination and Immunization;Trump, Donald J;Fauci, Anthony S;Facebook Inc;Twitter;Tulsa (Okla);United States",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "Is Trump Trying to Spread Covid-19?",
+      "abstract": "Does he start each day wondering what expert advice to ignore next?",
+      "des_facet": [
+        "Coronavirus Risks and Safety Concerns",
+        "Coronavirus Reopenings",
+        "Chemistry",
+        "Biology and Biochemistry",
+        "Vaccination and Immunization"
+      ],
+      "org_facet": [
+        "Facebook Inc",
+        "Twitter"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Fauci, Anthony S"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/opinion/16friedman1/16friedman1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/opinion/16friedman1/merlin_173565756_7549f509-9663-44b8-bc18-dc8f5b912fca-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/opinion/16friedman1/merlin_173565756_7549f509-9663-44b8-bc18-dc8f5b912fca-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ae7db073-c6a8-5db8-851b-5807d195ddd3",
+      "url": "https://www.nytimes.com/2020/06/10/upshot/dentists-coronavirus-economic-indicator.html",
+      "id": 100000007179933,
+      "asset_id": 100000007179933,
+      "source": "New York Times",
+      "published_date": "2020-06-10",
+      "updated": "2020-06-16 12:05:31",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "Teeth and Dentistry;Coronavirus Reopenings;United States Economy;Protective Clothing and Gear;Coronavirus (2019-nCoV);Shutdowns (Institutional);Coronavirus Aid, Relief, and Economic Security Act (2020)",
+      "column": null,
+      "byline": "By Sarah Kliff",
+      "type": "Article",
+      "title": "How’s the Economy Doing? Watch the Dentists",
+      "abstract": "A crucial indicator of whether Americans feel safe returning to normal activities.",
+      "des_facet": [
+        "Teeth and Dentistry",
+        "Coronavirus Reopenings",
+        "United States Economy",
+        "Protective Clothing and Gear",
+        "Coronavirus (2019-nCoV)",
+        "Shutdowns (Institutional)",
+        "Coronavirus Aid, Relief, and Economic Security Act (2020)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Installing a crown at a dental office in Vinton, Iowa, last month. In many places, dentists have gone back to work.",
+          "copyright": "Andy Abeyta/The Gazette, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/13/upshot/13up-coronavirus-dentist/10up-coronavirus-dentist-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/13/upshot/13up-coronavirus-dentist/10up-coronavirus-dentist-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/13/upshot/13up-coronavirus-dentist/10up-coronavirus-dentist-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b9049bfc-8567-565f-9c87-65568cd020f4",
+      "url": "https://www.nytimes.com/2020/06/18/opinion/tulsa-race-massacre-racism.html",
+      "id": 100000007198448,
+      "asset_id": 100000007198448,
+      "source": "New York Times",
+      "published_date": "2020-06-18",
+      "updated": "2020-06-19 19:28:02",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Black People;Discrimination;Juneteenth;Reconstruction Era;United States Politics and Government;Slavery (Historical);Trump, Donald J;Tulsa (Okla)",
+      "column": null,
+      "byline": "By Paul Krugman",
+      "type": "Article",
+      "title": "Tulsa and the Many Sins of Racism",
+      "abstract": "The ugly story didn’t end with the abolition of slavery.",
+      "des_facet": [
+        "Black People",
+        "Discrimination",
+        "Juneteenth",
+        "Reconstruction Era",
+        "United States Politics and Government",
+        "Slavery (Historical)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smoke billowed up from fires set during the Tulsa Race Massacre in June 1921.",
+          "copyright": "Corbis, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/opinion/18krugman1/18krugman1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/opinion/18krugman1/18krugman1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/opinion/18krugman1/18krugman1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/43fddced-0540-52f4-8f23-c49057809fc0",
+      "url": "https://www.nytimes.com/2020/06/18/opinion/black-america-education.html",
+      "id": 100000007198058,
+      "asset_id": 100000007198058,
+      "source": "New York Times",
+      "published_date": "2020-06-18",
+      "updated": "2020-06-19 19:28:02",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Black People;Equal Educational Opportunities;Discrimination;Education;Income Inequality",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "How Moderates Failed Black America",
+      "abstract": "Better education is not leading to equality.",
+      "des_facet": [
+        "Black People",
+        "Equal Educational Opportunities",
+        "Discrimination",
+        "Education",
+        "Income Inequality"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 2016 Howard University graduation as President Barack Obama delivered the commencement speech. ",
+          "copyright": "Jose Luis Magana/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/opinion/18brooks1/18brooks1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/opinion/18brooks1/18brooks1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/opinion/18brooks1/18brooks1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/60c28720-7b4f-5429-b9d2-a3fa06b12d76",
+      "url": "https://www.nytimes.com/2020/06/19/science/hummingbirds-color-vision.html",
+      "id": 100000007200795,
+      "asset_id": 100000007200795,
+      "source": "New York Times",
+      "published_date": "2020-06-19",
+      "updated": "2020-06-19 15:40:37",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Hummingbirds;Ultraviolet Light;Animal Behavior;Flowers and Plants;Research;Eyes and Eyesight;your-feed-science;Stoddard, Mary Caswell;Proceedings of the National Academy of Sciences",
+      "column": null,
+      "byline": "By Veronique Greenwood",
+      "type": "Article",
+      "title": "Hummingbirds Navigate an Ultraviolet World We Never See",
+      "abstract": "New research shows that the nectar-drinking birds use their enhanced color vision to distinguish sources of food.",
+      "des_facet": [
+        "Hummingbirds",
+        "Ultraviolet Light",
+        "Animal Behavior",
+        "Flowers and Plants",
+        "Research",
+        "Eyes and Eyesight",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Proceedings of the National Academy of Sciences"
+      ],
+      "per_facet": [
+        "Stoddard, Mary Caswell"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A broad-tailed hummingbird near Gothic, Colo., seeing colors you wouldn’t believe.",
+          "copyright": "Noah Whiteman",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/19/science/19TB-HUMMINGBIRD/19TB-HUMMINGBIRD-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/19/science/19TB-HUMMINGBIRD/19TB-HUMMINGBIRD-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/19/science/19TB-HUMMINGBIRD/19TB-HUMMINGBIRD-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dc31d5b5-de6c-5339-9f14-911c3c2f48e4",
+      "url": "https://www.nytimes.com/2020/06/20/books/david-sedaris-nyc-quarantine-life-coronavirus.html",
+      "id": 100000007163252,
+      "asset_id": 100000007163252,
+      "source": "New York Times",
+      "published_date": "2020-06-20",
+      "updated": "2020-06-21 23:08:02",
+      "section": "Books",
+      "subsection": "",
+      "nytdsection": "books",
+      "adx_keywords": "Books and Literature;Coronavirus (2019-nCoV);Writing and Writers;Walking;Sedaris, David;New York City",
+      "column": null,
+      "byline": "By Sarah Lyall",
+      "type": "Article",
+      "title": "David Sedaris, Dressed Up With Nowhere to Go",
+      "abstract": "With two books in the works but all plans on hold, the writer is pacing New York City and destroying his Fitbit friends.",
+      "des_facet": [
+        "Books and Literature",
+        "Coronavirus (2019-nCoV)",
+        "Writing and Writers",
+        "Walking"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Sedaris, David"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Throughout the pandemic, David Sedaris has been walking, masked, around New York City. “Everywhere I go it smells the same, and it smells like my breath,” he said.",
+          "copyright": "Vincent Tullo for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/books/18Sedaris1/18Sedaris1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/books/18Sedaris1/18Sedaris1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/books/18Sedaris1/18Sedaris1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a3d78b17-7bbc-52d1-9d0d-0250fb632dab",
+      "url": "https://www.nytimes.com/2020/06/19/nyregion/us-attorney-manhattan-trump.html",
+      "id": 100000007201671,
+      "asset_id": 100000007201671,
+      "source": "New York Times",
+      "published_date": "2020-06-19",
+      "updated": "2020-06-22 12:58:34",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "United States Attorneys;United States Politics and Government;Appointments and Executive Changes;Barr, William P;Berman, Geoffrey S;Clayton, Walter J;Trump, Donald J;Justice Department",
+      "column": null,
+      "byline": "By Benjamin Weiser, William K. Rashbaum, Nicole Hong, Maggie Haberman and Katie Benner",
+      "type": "Article",
+      "title": "Clash Over U.S. Attorney Who Investigated Trump Associates Sets Off Crisis",
+      "abstract": "Attorney General William Barr tried to fire the U.S. attorney in Manhattan, Geoffrey Berman, but he is refusing to leave.",
+      "des_facet": [
+        "United States Attorneys",
+        "United States Politics and Government",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Barr, William P",
+        "Berman, Geoffrey S",
+        "Clayton, Walter J",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Geoffrey S. Berman, the U.S. attorney in Manhattan.",
+          "copyright": "Jefferson Siegel for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21usattourney-p1sub/19xp-Clayton-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21usattourney-p1sub/19xp-Clayton-2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21usattourney-p1sub/19xp-Clayton-2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3cebfd0a-7679-5193-9628-d9b53a70319f",
+      "url": "https://www.nytimes.com/2020/06/19/opinion/sunday/antiracism-white-people.html",
+      "id": 100000007195319,
+      "asset_id": 100000007195319,
+      "source": "New York Times",
+      "published_date": "2020-06-19",
+      "updated": "2020-06-20 23:37:46",
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "nytdsection": "opinion",
+      "adx_keywords": "Race and Ethnicity;Whites;Black People;Discrimination",
+      "column": null,
+      "byline": "By Maeve Higgins",
+      "type": "Article",
+      "title": "To White People Who Want to Be ‘One of the Good Ones’",
+      "abstract": "Before you ask to speak to your own manager, relax. This isn’t really “work,” and you’re not alone.",
+      "des_facet": [
+        "Race and Ethnicity",
+        "Whites",
+        "Black People",
+        "Discrimination"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amr Alfiky/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/opinion/18higginsWeb/18higginsWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/opinion/18higginsWeb/merlin_173568240_c0d0bef8-0780-47d9-87c0-8be32ed76ed9-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/opinion/18higginsWeb/merlin_173568240_c0d0bef8-0780-47d9-87c0-8be32ed76ed9-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0da52916-d033-5262-85f2-952edcc057ea",
+      "url": "https://www.nytimes.com/2020/06/17/science/irish-archaeology-incest-tomb.html",
+      "id": 100000007195049,
+      "asset_id": 100000007195049,
+      "source": "New York Times",
+      "published_date": "2020-06-17",
+      "updated": "2020-06-23 09:51:22",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Archaeology and Anthropology;Tombs and Tombstones;Genetics and Heredity;Incest;Research;DNA (Deoxyribonucleic Acid);your-feed-science;Nature (Journal);Trinity College (Dublin, Ireland);Ireland",
+      "column": null,
+      "byline": "By James Gorman",
+      "type": "Article",
+      "title": "DNA of ‘Irish Pharaoh’ Sheds Light on Ancient Tomb Builders",
+      "abstract": "In one of Europe's most impressive Stone Age burial mounds, researchers found evidence of brother-sister incest that suggests the existence of a ruling elite.",
+      "des_facet": [
+        "Archaeology and Anthropology",
+        "Tombs and Tombstones",
+        "Genetics and Heredity",
+        "Incest",
+        "Research",
+        "DNA (Deoxyribonucleic Acid)",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Nature (Journal)",
+        "Trinity College (Dublin, Ireland)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Ireland"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At sunrise during the winter solstice, a beam of light illuminates the central underground chamber of Newgrange, a 5,000-year-old Irish tomb in the valley of the River Boyne.",
+          "copyright": "Ken Williams",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/science/17SCI-IRISH1/17SCI-IRISH1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/science/17SCI-IRISH1/17SCI-IRISH1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/science/17SCI-IRISH1/17SCI-IRISH1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2c03649d-bdf9-5bab-b55d-28c976266c13",
+      "url": "https://www.nytimes.com/2020/06/19/opinion/floyd-protests-race-america.html",
+      "id": 100000007196368,
+      "asset_id": 100000007196368,
+      "source": "New York Times",
+      "published_date": "2020-06-19",
+      "updated": "2020-06-20 23:37:51",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "George Floyd Protests (2020);Black People;Race and Ethnicity;Slavery (Historical);Discrimination;Demonstrations, Protests and Riots;Civil War (US) (1861-65);Segregation and Desegregation;Tyson, Timothy B;West, Cornel;Jefferson, Thomas;United States",
+      "column": null,
+      "byline": "By William Barber II, Liz Theoharis, Timothy B. Tyson and Cornel West",
+      "type": "Article",
+      "title": "What the Courage to Change History Looks Like",
+      "abstract": "We can’t tinker around the edges. We need to dismantle systems.",
+      "des_facet": [
+        "George Floyd Protests (2020)",
+        "Black People",
+        "Race and Ethnicity",
+        "Slavery (Historical)",
+        "Discrimination",
+        "Demonstrations, Protests and Riots",
+        "Civil War (US) (1861-65)",
+        "Segregation and Desegregation"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Tyson, Timothy B",
+        "West, Cornel",
+        "Jefferson, Thomas"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Continuing protests set off by the killing of George Floyd confront the systemic racism of 400 years.",
+          "copyright": "Bryan Denton for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/19/opinion/19ineqBarb/19ineqBarb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/19/opinion/19ineqBarb/19ineqBarb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/19/opinion/19ineqBarb/19ineqBarb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

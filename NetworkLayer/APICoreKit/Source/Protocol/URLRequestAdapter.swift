@@ -26,8 +26,9 @@ extension TargetType {
 
 extension URLRequest {
     init(with targetType: TargetType) throws {
-        try self.init(url: targetType.baseURL.appendingPathComponent(targetType.path),
-                  method: targetType.method,
-                  headers: targetType.headers)
+        try self.init(
+            url: targetType.baseURL.appendingPathComponent(targetType.path),
+            method: targetType.method,
+            headers: targetType.headers)
     }
 }

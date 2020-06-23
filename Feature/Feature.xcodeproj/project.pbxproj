@@ -16,6 +16,9 @@
 		393D3314249DB45E00F97218 /* LoadContentDecoratorController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393D3313249DB45E00F97218 /* LoadContentDecoratorController.swift */; };
 		393D3324249DC87900F97218 /* UI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 393D3323249DC87900F97218 /* UI.framework */; };
 		393D3325249DC87900F97218 /* UI.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 393D3323249DC87900F97218 /* UI.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		397482E524A2A1D2008A055D /* NewsLisViewController+Preview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 397482E424A2A1D2008A055D /* NewsLisViewController+Preview.swift */; };
+		397482ED24A2A6BF008A055D /* MockKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 397482EC24A2A6BF008A055D /* MockKit.framework */; };
+		397482EE24A2A6BF008A055D /* MockKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 397482EC24A2A6BF008A055D /* MockKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		398DCAE8249D57F600D776E4 /* NewsListKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 398DCAE6249D57F600D776E4 /* NewsListKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		398DCAF0249D581400D776E4 /* NewsListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 398DCAEF249D581400D776E4 /* NewsListViewController.swift */; };
 		398DCAF4249D582000D776E4 /* Metadata+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 398DCAF1249D582000D776E4 /* Metadata+Extension.swift */; };
@@ -50,6 +53,7 @@
 				393D3325249DC87900F97218 /* UI.framework in Embed Frameworks */,
 				39DDF69E24A1595400851D26 /* LocalizationKit.framework in Embed Frameworks */,
 				3938B4B424A0D72200C521B1 /* NewsAPIKit.framework in Embed Frameworks */,
+				397482EE24A2A6BF008A055D /* MockKit.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -63,6 +67,8 @@
 		393D3311249DB3D800F97218 /* EmptyStateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyStateViewController.swift; sourceTree = "<group>"; };
 		393D3313249DB45E00F97218 /* LoadContentDecoratorController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadContentDecoratorController.swift; sourceTree = "<group>"; };
 		393D3323249DC87900F97218 /* UI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = UI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		397482E424A2A1D2008A055D /* NewsLisViewController+Preview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NewsLisViewController+Preview.swift"; sourceTree = "<group>"; };
+		397482EC24A2A6BF008A055D /* MockKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MockKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		398DCAE4249D57F600D776E4 /* NewsListKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = NewsListKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		398DCAE6249D57F600D776E4 /* NewsListKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewsListKit.h; sourceTree = "<group>"; };
 		398DCAE7249D57F600D776E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -90,6 +96,7 @@
 				393D3324249DC87900F97218 /* UI.framework in Frameworks */,
 				39DDF69D24A1595400851D26 /* LocalizationKit.framework in Frameworks */,
 				3938B4B324A0D72200C521B1 /* NewsAPIKit.framework in Frameworks */,
+				397482ED24A2A6BF008A055D /* MockKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -148,6 +155,7 @@
 			isa = PBXGroup;
 			children = (
 				398DCAEF249D581400D776E4 /* NewsListViewController.swift */,
+				397482E424A2A1D2008A055D /* NewsLisViewController+Preview.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -166,6 +174,7 @@
 		398DCAFA249D5AC000D776E4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				397482EC24A2A6BF008A055D /* MockKit.framework */,
 				39DDF69C24A1595400851D26 /* LocalizationKit.framework */,
 				3938B4B224A0D72200C521B1 /* NewsAPIKit.framework */,
 				393D3323249DC87900F97218 /* UI.framework */,
@@ -336,6 +345,7 @@
 				398DCAF6249D582000D776E4 /* News+Extensions.swift in Sources */,
 				398DCAF4249D582000D776E4 /* Metadata+Extension.swift in Sources */,
 				39DDF6A024A15D8B00851D26 /* NewsType+Extension.swift in Sources */,
+				397482E524A2A1D2008A055D /* NewsLisViewController+Preview.swift in Sources */,
 				39D09D99249F05120098861A /* NewsListViewModel.swift in Sources */,
 				398DCAF0249D581400D776E4 /* NewsListViewController.swift in Sources */,
 				398DCAF5249D582000D776E4 /* NewsList+Extension.swift in Sources */,

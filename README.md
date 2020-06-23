@@ -1,4 +1,4 @@
-# New york times reader 📱
+# New York Times Reader 📱
 
 ## Requirements
 
@@ -7,8 +7,9 @@
 ## Features
 
 - [x] landscape and portrait orientation,
-- [x] supporting devices since iOS 12,
-- [x] using swift package manager,
+- [x] supporting devices greater than iOS 12,
+- [x] screen previews,
+- [x] swift package manager,
 - [x] handles internet failure, and stores executed request result,
 - [x] implemented emailed, shared and viewed tabs, as proposed in test.
 

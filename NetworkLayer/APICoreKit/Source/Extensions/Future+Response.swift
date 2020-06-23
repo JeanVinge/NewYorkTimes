@@ -3,7 +3,7 @@ import Future
 
 public extension Future where Value == Response {
     func JSON(_ options: JSONSerialization.ReadingOptions = .allowFragments) -> Future<Any> {
-        return chained { response -> Future<Any> in
+        chained { response -> Future<Any> in
             let promise = Promise<Any>()
             do {
                 promise.resolve(with: try response.JSON(options))
@@ -15,7 +15,7 @@ public extension Future where Value == Response {
     }
 
     func map<T: Codable>(_ type: T.Type) -> Future<T> {
-        return chained { response in
+        chained { response in
             let promise = Promise<T>()
             do {
                 promise.resolve(with: try response.map(type))

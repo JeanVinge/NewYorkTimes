@@ -20,6 +20,7 @@ final public class NewsListViewController: UIViewController {
     }()
 
     private var viewModel: NewsListViewModelProtocol
+    private var responder: LoadingStateResponder?
 
     // MARK: Init
 
@@ -35,6 +36,15 @@ final public class NewsListViewController: UIViewController {
 
     public override func loadView() {
         self.view = UIView()
+        buildUI()
+        DispatchQueue.main.async { [weak self] in
+            guard let self = self else { return }
+            self.responder = self.find(LoadingStateResponder.self)
+            self.requestList()
+        }
+    }
+
+    private func buildUI() {
         view.backgroundColor = UIColor.systemColor.background
         view.addSubview(newsListView)
         newsListView.route = self
@@ -47,23 +57,13 @@ final public class NewsListViewController: UIViewController {
         }
     }
 
-    public override func viewDidLoad() {
-        super.viewDidLoad()
-        DispatchQueue.main.async { [weak self] in
-            guard let self = self else { return }
-            self.requestList()
-        }
-    }
-
     // MARK: Request
 
     private func requestList() {
-        let state = find(LoadingStateResponder.self)
-        state?.change(with: .loading)
+        responder?.change(with: .loading)
         viewModel.requestList().observe { [weak self] result in
             guard let self = self else { return }
-            self.handleRequest(with: result,
-                               state: state)
+            self.handleRequest(with: result)
         }
     }
 
@@ -76,21 +76,21 @@ final public class NewsListViewController: UIViewController {
         }
     }
 
-    private func handleRequest(with result: Result<UI.NewsListViewModel, Error>,
-                               state: LoadingStateResponder?) {
+    private func handleRequest(with result: Result<UI.NewsListViewModel, Error>) {
         switch result {
         case let .success(viewModel):
             DispatchQueue.main.async { [weak self] in
                 guard let self = self else { return }
-                state?.change(with: .finished)
+                self.responder?.change(with: .finished)
                 self.newsListView.reload(viewModel)
             }
         case .failure:
             DispatchQueue.main.async {
-                state?.change(with:
+                self.responder?.change(with:
                     .emptyState(
-                        .init(title: Localization.EmptyState.title.text(),
-                              button: Localization.EmptyState.button.text()
+                        .init(
+                            title: Localization.EmptyState.title.text(),
+                            button: Localization.EmptyState.button.text()
                         )
                     )
                 )

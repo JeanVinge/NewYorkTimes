@@ -1,0 +1,1129 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/9fc9855b-ebb9-5051-8dd0-c6d4aa9539e5",
+      "url": "https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html",
+      "id": 100000007202296,
+      "asset_id": 100000007202296,
+      "source": "New York Times",
+      "published_date": "2020-06-21",
+      "updated": "2020-06-22 10:51:12",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2020;Social Media;Teenagers and Adolescence;Hoaxes and Pranks;Demonstrations, Protests and Riots;Pop and Rock Music;Trump, Donald J;TikTok (ByteDance);Twitter;Tulsa (Okla);South Korea",
+      "column": null,
+      "byline": "By Taylor Lorenz, Kellen Browning and Sheera Frenkel",
+      "type": "Article",
+      "title": "TikTok Teens and K-Pop Stans Say They Sank Trump Rally",
+      "abstract": "Did a successful prank inflate attendance expectations for President Trump’s rally in Tulsa, Okla.?",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Social Media",
+        "Teenagers and Adolescence",
+        "Hoaxes and Pranks",
+        "Demonstrations, Protests and Riots",
+        "Pop and Rock Music"
+      ],
+      "org_facet": [
+        "TikTok (ByteDance)",
+        "Twitter"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)",
+        "South Korea"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Many of the arena’s 19,000 seats remained empty as Mr. Trump spoke.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20trump-tulsa-n5/20trump-tulsa-n5-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20trump-tulsa-n5/20trump-tulsa-n5-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20trump-tulsa-n5/20trump-tulsa-n5-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9b7e151d-e085-5c24-a38a-35bb349d5051",
+      "url": "https://www.nytimes.com/2020/06/21/us/politics/trump-tulsa-rally.html",
+      "id": 100000007202608,
+      "asset_id": 100000007202608,
+      "source": "New York Times",
+      "published_date": "2020-06-21",
+      "updated": "2020-06-22 17:40:33",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Trump, Donald J;Parscale, Brad (1976- );Republican Party;Tulsa (Okla)",
+      "column": null,
+      "byline": "By Maggie Haberman and Annie Karni",
+      "type": "Article",
+      "title": "The President’s Shock at the Rows of Empty Seats in Tulsa",
+      "abstract": "Inside the campaign, advisers believe disappointing attendance at the rally shows genuine fear of the coronavirus and the reality of President Trump’s sliding poll numbers.",
+      "des_facet": [
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Parscale, Brad (1976- )"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attendance was less than expected at President Trump’s rally in Tulsa, Okla., on Saturday.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21trump-campaign/21trump-campaign-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21trump-campaign/21trump-campaign-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21trump-campaign/21trump-campaign-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ccf4a9d3-568f-5b05-84c5-ae685acd47b7",
+      "url": "https://www.nytimes.com/2020/06/15/us/gay-transgender-workers-supreme-court.html",
+      "id": 100000007069961,
+      "asset_id": 100000007069961,
+      "source": "New York Times",
+      "published_date": "2020-06-15",
+      "updated": "2020-06-16 23:26:21",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Discrimination;Homosexuality and Bisexuality;Workplace Hazards and Violations;Transgender and Transsexuals;Civil Rights and Liberties;Decisions and Verdicts;Law and Legislation;Gorsuch, Neil M;Alito, Samuel A Jr;Stephens, Aimee;Bostock, Gerald;Zarda, Donald (1970-2014);Supreme Court (US);Equal Employment Opportunity Commission;RG & GR Harris Funeral Homes Inc",
+      "column": null,
+      "byline": "By Adam Liptak",
+      "type": "Article",
+      "title": "Civil Rights Law Protects Gay and Transgender Workers, Supreme Court Rules",
+      "abstract": "The court said the language of the Civil Rights Act of 1964, which prohibits sex discrimination, applies to discrimination based on sexual orientation and gender identity.",
+      "des_facet": [
+        "Discrimination",
+        "Homosexuality and Bisexuality",
+        "Workplace Hazards and Violations",
+        "Transgender and Transsexuals",
+        "Civil Rights and Liberties",
+        "Decisions and Verdicts",
+        "Law and Legislation"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Equal Employment Opportunity Commission",
+        "RG & GR Harris Funeral Homes Inc"
+      ],
+      "per_facet": [
+        "Gorsuch, Neil M",
+        "Alito, Samuel A Jr",
+        "Stephens, Aimee",
+        "Bostock, Gerald",
+        "Zarda, Donald (1970-2014)"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tiffany Munroe on Sunday in Brooklyn during a rally to call attention to violence against transgender people of color.",
+          "copyright": "Demetrius Freeman for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/us/politics/15dc-scotus-lgbt/15dc-scotus-lgbt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/us/politics/15dc-scotus-lgbt/merlin_173534901_83f3865e-6ba4-4f1b-8d6c-a7f54db8cce8-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/us/politics/15dc-scotus-lgbt/merlin_173534901_83f3865e-6ba4-4f1b-8d6c-a7f54db8cce8-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f4d0da87-dc3c-5e66-9b5c-b6511d908acf",
+      "url": "https://www.nytimes.com/2020/06/20/us/trump-rally-tulsa.html",
+      "id": 100000007201141,
+      "asset_id": 100000007201141,
+      "source": "New York Times",
+      "published_date": "2020-06-20",
+      "updated": "2020-06-21 16:57:18",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;George Floyd Protests (2020);Trump, Donald J;Tulsa (Okla)",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "Crowd Is Sparse as Trump Tries to Reignite Campaign",
+      "abstract": "Speaking in Tulsa, Okla., a day after the Juneteenth holiday, the president mocked the coronavirus that has killed 121,000 Americans and claimed he wanted to slow down testing.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "George Floyd Protests (2020)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/01ae5e1a-2ead-5d34-90f6-613730a3c5b0",
+      "url": "https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html",
+      "id": 100000007190460,
+      "asset_id": 100000007190460,
+      "source": "New York Times",
+      "published_date": "2020-06-14",
+      "updated": "2020-06-15 10:32:30",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Commencement Speeches;Trump, Donald J;United States Military Academy",
+      "column": null,
+      "byline": "By Maggie Haberman",
+      "type": "Article",
+      "title": "Trump’s Halting Walk Down Ramp Raises New Health Questions",
+      "abstract": "The president also appeared to have trouble raising a glass of water to his mouth during a speech at West Point a day before he turned 74, the oldest a president has been in his first term.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Commencement Speeches"
+      ],
+      "org_facet": [
+        "United States Military Academy"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/704778e4-c967-5787-8f43-9971b923be0d",
+      "url": "https://www.nytimes.com/2020/06/21/arts/design/roosevelt-statue-to-be-removed-from-museum-of-natural-history.html",
+      "id": 100000007201546,
+      "asset_id": 100000007201546,
+      "source": "New York Times",
+      "published_date": "2020-06-21",
+      "updated": "2020-06-22 15:06:45",
+      "section": "Arts",
+      "subsection": "Art & Design",
+      "nytdsection": "arts",
+      "adx_keywords": "Monuments and Memorials (Structures);Race and Ethnicity;George Floyd Protests (2020);Futter, Ellen V;Roosevelt, Theodore;American Museum of Natural History;New York City",
+      "column": null,
+      "byline": "By Robin Pogrebin",
+      "type": "Article",
+      "title": "Roosevelt Statue to Be Removed From Museum of Natural History",
+      "abstract": "The equestrian memorial to Theodore Roosevelt has long prompted objections as a symbol of colonialism and racism.",
+      "des_facet": [
+        "Monuments and Memorials (Structures)",
+        "Race and Ethnicity",
+        "George Floyd Protests (2020)"
+      ],
+      "org_facet": [
+        "American Museum of Natural History"
+      ],
+      "per_facet": [
+        "Futter, Ellen V",
+        "Roosevelt, Theodore"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“The world does not need statues, relics of another age, that reflect neither the values of the person they intend to honor nor the values of equality and justice,” said Theodore Roosevelt IV, a great-grandson of the 26th president, said in a statement approving the removal.",
+          "copyright": "Caitlin Ochs for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/arts/22statue3/22statue3-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/arts/22statue3/22statue3-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/arts/22statue3/22statue3-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ccbca2f2-7cb5-5812-91fe-e03588b518c5",
+      "url": "https://www.nytimes.com/2020/06/18/us/trump-daca-supreme-court.html",
+      "id": 100000007071994,
+      "asset_id": 100000007071994,
+      "source": "New York Times",
+      "published_date": "2020-06-18",
+      "updated": "2020-06-19 11:33:08",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Immigration and Emigration;Illegal Immigration;Deferred Action for Childhood Arrivals;Courts and the Judiciary;Decisions and Verdicts;Trump, Donald J;Supreme Court (US);Homeland Security Department;Immigration and Customs Enforcement (US)",
+      "column": null,
+      "byline": "By Adam Liptak and Michael D. Shear",
+      "type": "Article",
+      "title": "Trump Can’t Immediately End DACA, Supreme Court Rules",
+      "abstract": "The program, Deferred Action for Childhood Arrivals, protects people brought to the United States as children by shielding them from deportation and letting them work.",
+      "des_facet": [
+        "Immigration and Emigration",
+        "Illegal Immigration",
+        "Deferred Action for Childhood Arrivals",
+        "Courts and the Judiciary",
+        "Decisions and Verdicts"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/257e0d6c-1967-5236-b450-5bb181611a87",
+      "url": "https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html",
+      "id": 100000007201867,
+      "asset_id": 100000007201867,
+      "source": "New York Times",
+      "published_date": "2020-06-20",
+      "updated": "2020-06-22 09:53:58",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Coronavirus (2019-nCoV);Juneteenth;George Floyd Protests (2020);Black Lives Matter Movement;Trump, Donald J;Tulsa (Okla)",
+      "column": null,
+      "byline": "By Michael D. Shear, Maggie Haberman and Astead W. Herndon",
+      "type": "Article",
+      "title": "Trump Rally Fizzles as Attendance Falls Short of Campaign’s Expectations",
+      "abstract": "President Trump’s attempt to revive his re-election bid sputtered badly as he traveled to Tulsa for his first mass rally in months but found a small crowd and delivered a disjointed speech.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)",
+        "Juneteenth",
+        "George Floyd Protests (2020)",
+        "Black Lives Matter Movement"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bfb410ef-1edf-5f83-bc03-e967a82728c9",
+      "url": "https://www.nytimes.com/2020/06/17/us/politics/bolton-book-trump-impeached.html",
+      "id": 100000007196179,
+      "asset_id": 100000007196179,
+      "source": "New York Times",
+      "published_date": "2020-06-17",
+      "updated": "2020-06-20 11:11:35",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Books and Literature;United States Politics and Government;United States International Relations;Impeachment;Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;Ethics and Official Misconduct;Bolton, John R;Trump, Donald J",
+      "column": null,
+      "byline": "By Peter Baker",
+      "type": "Article",
+      "title": "Bolton Says Trump Impeachment Inquiry Missed Other Troubling Episodes",
+      "abstract": "In his new book, John R. Bolton, the former national security adviser, describes instances when the president sought to halt criminal inquiries. He also says President Trump’s loyalists mocked him behind his back.",
+      "des_facet": [
+        "Books and Literature",
+        "United States Politics and Government",
+        "United States International Relations",
+        "Impeachment",
+        "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry",
+        "Ethics and Official Misconduct"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bolton, John R",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John R. Bolton was President Trump’s national security adviser for 17 months. Mr. Trump asked if Finland was part of Russia, Mr. Bolton wrote in his new book.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/us/politics/17dc-bolton/17dc-bolton-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/us/politics/17dc-bolton/17dc-bolton-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/us/politics/17dc-bolton/17dc-bolton-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5aae87cd-0fbb-59d1-b0b9-d24881f8da50",
+      "url": "https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html",
+      "id": 100000007201729,
+      "asset_id": 100000007201729,
+      "source": "New York Times",
+      "published_date": "2020-06-21",
+      "updated": "2020-06-22 05:32:41",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus (2019-nCoV)",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "Brazil and the U.S. Drive New Coronavirus Infections",
+      "abstract": "The W.H.O. reported more than 183,000 new cases, the largest one-day increase so far, as the global tally inched toward nine million. A Trump administration official said the White House was preparing for a potential wave of infections in the fall.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A drive-through Covid testing site in Phoenix on Saturday.",
+          "copyright": "Matt York/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/21virus-briefing-top-sub/merlin_173748603_5da14f1e-e7ed-4861-9d1d-d7a845f6d357-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/21virus-briefing-top-sub/merlin_173748603_5da14f1e-e7ed-4861-9d1d-d7a845f6d357-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/21virus-briefing-top-sub/merlin_173748603_5da14f1e-e7ed-4861-9d1d-d7a845f6d357-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1760d5a9-65a2-55a0-a0c5-0f7da675c505",
+      "url": "https://www.nytimes.com/2020/06/15/books/mary-trump-book.html",
+      "id": 100000007191330,
+      "asset_id": 100000007191330,
+      "source": "New York Times",
+      "published_date": "2020-06-15",
+      "updated": "2020-06-16 12:47:34",
+      "section": "Books",
+      "subsection": "",
+      "nytdsection": "books",
+      "adx_keywords": "United States Politics and Government;Books and Literature;Tax Evasion;Trump, Donald J;Trump, Mary L;New York Times",
+      "column": null,
+      "byline": "By Neil Vigdor and Alexandra Alter",
+      "type": "Article",
+      "title": "Trump’s Niece to Publish Book With ‘Harrowing’ Revelations",
+      "abstract": "Mary Trump will say that she was a source of The New York Times’s coverage of the president’s tax returns. The Times declined to comment on the claim.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Books and Literature",
+        "Tax Evasion"
+      ],
+      "org_facet": [
+        "New York Times"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Trump, Mary L"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump walking off Air Force One at Joint Base Andrews, Md., on Sunday.",
+          "copyright": "Anna Moneymaker/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/14/us/politics/14xp-marytrump1/14xp-marytrump1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/14/us/politics/14xp-marytrump1/14xp-marytrump1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/14/us/politics/14xp-marytrump1/14xp-marytrump1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a3d78b17-7bbc-52d1-9d0d-0250fb632dab",
+      "url": "https://www.nytimes.com/2020/06/19/nyregion/us-attorney-manhattan-trump.html",
+      "id": 100000007201671,
+      "asset_id": 100000007201671,
+      "source": "New York Times",
+      "published_date": "2020-06-19",
+      "updated": "2020-06-22 12:58:34",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "United States Attorneys;United States Politics and Government;Appointments and Executive Changes;Barr, William P;Berman, Geoffrey S;Clayton, Walter J;Trump, Donald J;Justice Department",
+      "column": null,
+      "byline": "By Benjamin Weiser, William K. Rashbaum, Nicole Hong, Maggie Haberman and Katie Benner",
+      "type": "Article",
+      "title": "Clash Over U.S. Attorney Who Investigated Trump Associates Sets Off Crisis",
+      "abstract": "Attorney General William Barr tried to fire the U.S. attorney in Manhattan, Geoffrey Berman, but he is refusing to leave.",
+      "des_facet": [
+        "United States Attorneys",
+        "United States Politics and Government",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Barr, William P",
+        "Berman, Geoffrey S",
+        "Clayton, Walter J",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Geoffrey S. Berman, the U.S. attorney in Manhattan.",
+          "copyright": "Jefferson Siegel for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21usattourney-p1sub/19xp-Clayton-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21usattourney-p1sub/19xp-Clayton-2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21usattourney-p1sub/19xp-Clayton-2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/953aebe9-0352-5c11-99a9-81bd671cf5b2",
+      "url": "https://www.nytimes.com/2020/06/20/nyregion/trump-geoffrey-berman-fired-sdny.html",
+      "id": 100000007201959,
+      "asset_id": 100000007201959,
+      "source": "New York Times",
+      "published_date": "2020-06-20",
+      "updated": "2020-06-21 20:29:44",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "United States Attorneys;United States Politics and Government;Appointments and Executive Changes;Barr, William P;Berman, Geoffrey S;Clayton, Walter J;Trump, Donald J;Giuliani, Rudolph W;Justice Department;Manhattan (NYC)",
+      "column": null,
+      "byline": "By Alan Feuer, Katie Benner, Ben Protess, Maggie Haberman, William K. Rashbaum, Nicole Hong and Benjamin Weiser",
+      "type": "Article",
+      "title": "Trump Fires U.S. Attorney in New York Who Investigated His Inner Circle",
+      "abstract": "The president’s move heightened criticism that he was purging his administration of officials whose independence could be a threat to his re-election.",
+      "des_facet": [
+        "United States Attorneys",
+        "United States Politics and Government",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Barr, William P",
+        "Berman, Geoffrey S",
+        "Clayton, Walter J",
+        "Trump, Donald J",
+        "Giuliani, Rudolph W"
+      ],
+      "geo_facet": [
+        "Manhattan (NYC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Geoffrey S. Berman, who had been in office since 2018, initially declined to leave his post.",
+          "copyright": "Hiroko Masuike/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/nyregion/20nyberman-1/merlin_173742474_9c6aa14f-e895-46b2-882f-a60e547cb7fb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/nyregion/20nyberman-1/merlin_173742474_9c6aa14f-e895-46b2-882f-a60e547cb7fb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/nyregion/20nyberman-1/merlin_173742474_9c6aa14f-e895-46b2-882f-a60e547cb7fb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b1bacce6-ce08-5208-be6a-5675d6008b10",
+      "url": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html",
+      "id": 100000007191178,
+      "asset_id": 100000007191178,
+      "source": "New York Times",
+      "published_date": "2020-06-15",
+      "updated": "2020-06-16 08:04:27",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus (2019-nCoV)",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
+      "abstract": "Cash-starved states are forced to make massive job cuts. Reopenings for some restaurants and bars are short-lived amid new infections.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Mike Pence at the White House on Monday.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/us/15virus-briefing-pence/15virus-briefing-pence-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/us/15virus-briefing-pence/merlin_173565630_e164446f-4d7e-4897-9aa4-741b5c66b60b-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/us/15virus-briefing-pence/merlin_173565630_e164446f-4d7e-4897-9aa4-741b5c66b60b-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/267b10f9-df9e-543e-beb1-bc6787d4e21d",
+      "url": "https://www.nytimes.com/2020/06/17/us/politics/trump-2020-election.html",
+      "id": 100000007191239,
+      "asset_id": 100000007191239,
+      "source": "New York Times",
+      "published_date": "2020-06-17",
+      "updated": "2020-06-20 10:33:03",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;George Floyd Protests (2020);Police Brutality, Misconduct and Shootings;Trump, Donald J;Republican Party",
+      "column": null,
+      "byline": "By Maggie Haberman and Annie Karni",
+      "type": "Article",
+      "title": "Does Trump Want to Fight for a Second Term? His Self-Sabotage Worries Aides",
+      "abstract": "Advisers and allies say the president’s repeated acts of self-destruction have significantly damaged his re-election prospects, and yet he appears mostly unable, or unwilling, to curtail them.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "George Floyd Protests (2020)",
+        "Police Brutality, Misconduct and Shootings"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump has told advisers that no matter what he does, he cannot get “good” stories from the news media, people familiar with the conversations say.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/us/politics/17trump-mood-sub/17trump-mood-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/us/politics/17trump-mood-sub/17trump-mood-sub-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/us/politics/17trump-mood-sub/17trump-mood-sub-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5f9f1bc7-549a-5ab4-bdac-6e00a87e3d74",
+      "url": "https://www.nytimes.com/2020/06/18/us/politics/facebook-trump-ads-antifa-red-triangle.html",
+      "id": 100000007198405,
+      "asset_id": 100000007198405,
+      "source": "New York Times",
+      "published_date": "2020-06-18",
+      "updated": "2020-06-19 13:05:35",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Antifa Movement (US);Holocaust and the Nazi Era;Presidential Election of 2020;Political Advertising;Social Media;Symbols;Trump, Donald J;Facebook Inc",
+      "column": null,
+      "byline": "By Annie Karni",
+      "type": "Article",
+      "title": "Facebook Removes Trump Ads Displaying Symbol Used by Nazis",
+      "abstract": "Nazis used a red triangle to classify political prisoners during World War II. The Trump campaign said the red triangle in its Facebook ads was associated with antifa, a claim experts rejected.",
+      "des_facet": [
+        "Antifa Movement (US)",
+        "Holocaust and the Nazi Era",
+        "Presidential Election of 2020",
+        "Political Advertising",
+        "Social Media",
+        "Symbols"
+      ],
+      "org_facet": [
+        "Facebook Inc"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Facebook said it removed the Trump campaign’s ads for “violating our policy against organized hate.”",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/us/politics/18TRUMP-REDTRIANGLE/merlin_173635575_c8465a68-3717-4d79-96b0-34f5356891c1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/us/politics/18TRUMP-REDTRIANGLE/merlin_173635575_c8465a68-3717-4d79-96b0-34f5356891c1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/us/politics/18TRUMP-REDTRIANGLE/merlin_173635575_c8465a68-3717-4d79-96b0-34f5356891c1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3cef212e-4a09-5409-acc0-7ae49a416769",
+      "url": "https://www.nytimes.com/article/biden-vice-president-2020.html",
+      "id": 100000007151163,
+      "asset_id": 100000007151163,
+      "source": "New York Times",
+      "published_date": "2020-06-22",
+      "updated": "2020-06-23 15:57:53",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Women and Girls;Biden, Joseph R Jr;Harris, Kamala D;Warren, Elizabeth;Bottoms, Keisha Lance;Demings, Val;Rice, Susan E;Grisham, Michelle Lujan;Duckworth, L Tammy;Baldwin, Tammy Suzanne Green;Whitmer, Gretchen;Abrams, Stacey Y;Raimondo, Gina M;Hassan, Margaret;Klobuchar, Amy",
+      "column": null,
+      "byline": "By Alexander Burns",
+      "type": "Article",
+      "title": "Who’s in the Running to Be Joe Biden’s Vice President?",
+      "abstract": "Here are 13 women who have been under consideration by Mr. Biden, and why each might be chosen — and might not be.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Women and Girls"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D",
+        "Warren, Elizabeth",
+        "Bottoms, Keisha Lance",
+        "Demings, Val",
+        "Rice, Susan E",
+        "Grisham, Michelle Lujan",
+        "Duckworth, L Tammy",
+        "Baldwin, Tammy Suzanne Green",
+        "Whitmer, Gretchen",
+        "Abrams, Stacey Y",
+        "Raimondo, Gina M",
+        "Hassan, Margaret",
+        "Klobuchar, Amy"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former Vice President Jospeh R. Biden Jr. delivers remarks at City Hall in Philadelphia earlier this month.",
+          "copyright": "Mark Makela for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/23/us/politics/23vp-biden/23vp-biden-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/23/us/politics/23vp-biden/merlin_173110821_c31a20b2-7096-4e01-9e02-a71f5bf4088c-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/23/us/politics/23vp-biden/merlin_173110821_c31a20b2-7096-4e01-9e02-a71f5bf4088c-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2ec11b93-6f51-5107-9a9c-526d2cb72ea4",
+      "url": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html",
+      "id": 100000007193032,
+      "asset_id": 100000007193032,
+      "source": "New York Times",
+      "published_date": "2020-06-16",
+      "updated": "2020-06-23 12:51:46",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus (2019-nCoV)",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "Honduran President Tests Positive",
+      "abstract": "Scientists at the University of Oxford say they have identified a drug that can reduce coronavirus-related deaths. The virus flares in Beijing. Officials in Tulsa, Okla., worry that President Trump’s planned rally could cause a spike.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Juan Orlando Hernández of Honduras, center, addressing the the nation on the pandemic from the presidential palace in Tegucigalpa last month.",
+          "copyright": "Honduran Presidency, via Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/world/17virus-briefing-honduras/17virus-briefing-honduras-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/world/17virus-briefing-honduras/17virus-briefing-honduras-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/17/world/17virus-briefing-honduras/17virus-briefing-honduras-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d674dde3-991c-5d60-b678-5e1a88c1c198",
+      "url": "https://www.nytimes.com/2020/06/14/nyregion/central-park-amy-cooper-christian-racism.html",
+      "id": 100000007163605,
+      "asset_id": 100000007163605,
+      "source": "New York Times",
+      "published_date": "2020-06-14",
+      "updated": "2020-06-17 05:05:23",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Black Lives Matter Movement;George Floyd Protests (2020);Race and Ethnicity;Discrimination;Black People;Cooper, Christian (Birder);Cooper, Amy (May 25, 2020 Central Park Incident);Central Park (Manhattan, NY)",
+      "column": null,
+      "byline": "By Sarah Maslin Nir",
+      "type": "Article",
+      "title": "How 2 Lives Collided in Central Park, Rattling the Nation",
+      "abstract": "The inside story of the black birder and the white woman who called the police on him. Their encounter stirred wrenching conversations about racism and white privilege.",
+      "des_facet": [
+        "Black Lives Matter Movement",
+        "George Floyd Protests (2020)",
+        "Race and Ethnicity",
+        "Discrimination",
+        "Black People"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Cooper, Christian (Birder)",
+        "Cooper, Amy (May 25, 2020 Central Park Incident)"
+      ],
+      "geo_facet": [
+        "Central Park (Manhattan, NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brittainy Newman/The New York Times; Alison Faircloth",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/nyregion/00CENTRALPARK-TWOLIVES-top/00CENTRALPARK-TWOLIVES-top-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/nyregion/00CENTRALPARK-TWOLIVES-top/00CENTRALPARK-TWOLIVES-top-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/nyregion/00CENTRALPARK-TWOLIVES-top/00CENTRALPARK-TWOLIVES-top-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5d10b98f-b66f-5bfc-9bd2-321abe8b8f3d",
+      "url": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html",
+      "id": 100000007202825,
+      "asset_id": 100000007202825,
+      "source": "New York Times",
+      "published_date": "2020-06-22",
+      "updated": "2020-06-23 06:44:51",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus (2019-nCoV)",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "University of Michigan to Drop Out as Presidential Debate Host",
+      "abstract": "The university is concerned about bringing hordes of people to campus amid the pandemic. New cases in the U.S. account for 20 percent of new global infections. New York City allowed offices to reopen, with limits.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A polling location on the University of Michigan campus in Ann Arbor in March. The university has decided to withdraw from hosting one of the presidential debates.",
+          "copyright": "Chang W. Lee/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/world/22virus-briefing-debate/merlin_170301138_434b87ea-83f5-4b65-b18d-0fe44adfc5f8-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/world/22virus-briefing-debate/merlin_170301138_434b87ea-83f5-4b65-b18d-0fe44adfc5f8-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/world/22virus-briefing-debate/merlin_170301138_434b87ea-83f5-4b65-b18d-0fe44adfc5f8-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

@@ -49,26 +49,29 @@ public class LoadContentDecoratorController: UIViewController {
         viewController.removeFromParent()
     }
 
+    private func replace(with viewController: UIViewController) {
+        add(child: contentViewController)
+        children.forEach { vc in
+            guard viewController != vc else { return }
+            remove(child: vc)
+        }
+    }
+
 }
 
 extension LoadContentDecoratorController: LoadingStateResponder {
+
     public func change(with state: LoadingState) {
         switch state {
         case let .emptyState(viewModel):
             loadingViewController.stopLoading()
             emptyStateViewController.setup(with: viewModel)
-            add(child: emptyStateViewController)
-            remove(child: loadingViewController)
-            remove(child: contentViewController)
+            replace(with: emptyStateViewController)
         case .finished:
             loadingViewController.stopLoading()
-            add(child: contentViewController)
-            remove(child: loadingViewController)
-            remove(child: emptyStateViewController)
+            replace(with: contentViewController)
         case .loading:
-            add(child: loadingViewController)
-            remove(child: emptyStateViewController)
-            remove(child: contentViewController)
+            replace(with: loadingViewController)
             loadingViewController.startLoading()
         }
     }

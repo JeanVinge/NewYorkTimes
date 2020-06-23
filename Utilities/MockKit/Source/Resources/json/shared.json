@@ -1,0 +1,1147 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/9fc9855b-ebb9-5051-8dd0-c6d4aa9539e5",
+      "url": "https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html",
+      "id": 100000007202296,
+      "asset_id": 100000007202296,
+      "source": "New York Times",
+      "published_date": "2020-06-21",
+      "updated": "2020-06-22 10:51:12",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2020;Social Media;Teenagers and Adolescence;Hoaxes and Pranks;Demonstrations, Protests and Riots;Pop and Rock Music;Trump, Donald J;TikTok (ByteDance);Twitter;Tulsa (Okla);South Korea",
+      "column": null,
+      "byline": "By Taylor Lorenz, Kellen Browning and Sheera Frenkel",
+      "type": "Article",
+      "title": "TikTok Teens and K-Pop Stans Say They Sank Trump Rally",
+      "abstract": "Did a successful prank inflate attendance expectations for President Trump’s rally in Tulsa, Okla.?",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Social Media",
+        "Teenagers and Adolescence",
+        "Hoaxes and Pranks",
+        "Demonstrations, Protests and Riots",
+        "Pop and Rock Music"
+      ],
+      "org_facet": [
+        "TikTok (ByteDance)",
+        "Twitter"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)",
+        "South Korea"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Many of the arena’s 19,000 seats remained empty as Mr. Trump spoke.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20trump-tulsa-n5/20trump-tulsa-n5-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20trump-tulsa-n5/20trump-tulsa-n5-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20trump-tulsa-n5/20trump-tulsa-n5-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ccf4a9d3-568f-5b05-84c5-ae685acd47b7",
+      "url": "https://www.nytimes.com/2020/06/15/us/gay-transgender-workers-supreme-court.html",
+      "id": 100000007069961,
+      "asset_id": 100000007069961,
+      "source": "New York Times",
+      "published_date": "2020-06-15",
+      "updated": "2020-06-16 23:26:21",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Discrimination;Homosexuality and Bisexuality;Workplace Hazards and Violations;Transgender and Transsexuals;Civil Rights and Liberties;Decisions and Verdicts;Law and Legislation;Gorsuch, Neil M;Alito, Samuel A Jr;Stephens, Aimee;Bostock, Gerald;Zarda, Donald (1970-2014);Supreme Court (US);Equal Employment Opportunity Commission;RG & GR Harris Funeral Homes Inc",
+      "column": null,
+      "byline": "By Adam Liptak",
+      "type": "Article",
+      "title": "Civil Rights Law Protects Gay and Transgender Workers, Supreme Court Rules",
+      "abstract": "The court said the language of the Civil Rights Act of 1964, which prohibits sex discrimination, applies to discrimination based on sexual orientation and gender identity.",
+      "des_facet": [
+        "Discrimination",
+        "Homosexuality and Bisexuality",
+        "Workplace Hazards and Violations",
+        "Transgender and Transsexuals",
+        "Civil Rights and Liberties",
+        "Decisions and Verdicts",
+        "Law and Legislation"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Equal Employment Opportunity Commission",
+        "RG & GR Harris Funeral Homes Inc"
+      ],
+      "per_facet": [
+        "Gorsuch, Neil M",
+        "Alito, Samuel A Jr",
+        "Stephens, Aimee",
+        "Bostock, Gerald",
+        "Zarda, Donald (1970-2014)"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tiffany Munroe on Sunday in Brooklyn during a rally to call attention to violence against transgender people of color.",
+          "copyright": "Demetrius Freeman for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/us/politics/15dc-scotus-lgbt/15dc-scotus-lgbt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/us/politics/15dc-scotus-lgbt/merlin_173534901_83f3865e-6ba4-4f1b-8d6c-a7f54db8cce8-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/us/politics/15dc-scotus-lgbt/merlin_173534901_83f3865e-6ba4-4f1b-8d6c-a7f54db8cce8-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5aae87cd-0fbb-59d1-b0b9-d24881f8da50",
+      "url": "https://www.nytimes.com/2020/06/21/world/coronavirus-updates.html",
+      "id": 100000007201729,
+      "asset_id": 100000007201729,
+      "source": "New York Times",
+      "published_date": "2020-06-21",
+      "updated": "2020-06-22 05:32:41",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus (2019-nCoV)",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "Brazil and the U.S. Drive New Coronavirus Infections",
+      "abstract": "The W.H.O. reported more than 183,000 new cases, the largest one-day increase so far, as the global tally inched toward nine million. A Trump administration official said the White House was preparing for a potential wave of infections in the fall.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A drive-through Covid testing site in Phoenix on Saturday.",
+          "copyright": "Matt York/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/21virus-briefing-top-sub/merlin_173748603_5da14f1e-e7ed-4861-9d1d-d7a845f6d357-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/21virus-briefing-top-sub/merlin_173748603_5da14f1e-e7ed-4861-9d1d-d7a845f6d357-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/21virus-briefing-top-sub/merlin_173748603_5da14f1e-e7ed-4861-9d1d-d7a845f6d357-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f4d0da87-dc3c-5e66-9b5c-b6511d908acf",
+      "url": "https://www.nytimes.com/2020/06/20/us/trump-rally-tulsa.html",
+      "id": 100000007201141,
+      "asset_id": 100000007201141,
+      "source": "New York Times",
+      "published_date": "2020-06-20",
+      "updated": "2020-06-21 16:57:18",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;George Floyd Protests (2020);Trump, Donald J;Tulsa (Okla)",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "Crowd Is Sparse as Trump Tries to Reignite Campaign",
+      "abstract": "Speaking in Tulsa, Okla., a day after the Juneteenth holiday, the president mocked the coronavirus that has killed 121,000 Americans and claimed he wanted to slow down testing.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "George Floyd Protests (2020)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/704778e4-c967-5787-8f43-9971b923be0d",
+      "url": "https://www.nytimes.com/2020/06/21/arts/design/roosevelt-statue-to-be-removed-from-museum-of-natural-history.html",
+      "id": 100000007201546,
+      "asset_id": 100000007201546,
+      "source": "New York Times",
+      "published_date": "2020-06-21",
+      "updated": "2020-06-22 15:06:45",
+      "section": "Arts",
+      "subsection": "Art & Design",
+      "nytdsection": "arts",
+      "adx_keywords": "Monuments and Memorials (Structures);Race and Ethnicity;George Floyd Protests (2020);Futter, Ellen V;Roosevelt, Theodore;American Museum of Natural History;New York City",
+      "column": null,
+      "byline": "By Robin Pogrebin",
+      "type": "Article",
+      "title": "Roosevelt Statue to Be Removed From Museum of Natural History",
+      "abstract": "The equestrian memorial to Theodore Roosevelt has long prompted objections as a symbol of colonialism and racism.",
+      "des_facet": [
+        "Monuments and Memorials (Structures)",
+        "Race and Ethnicity",
+        "George Floyd Protests (2020)"
+      ],
+      "org_facet": [
+        "American Museum of Natural History"
+      ],
+      "per_facet": [
+        "Futter, Ellen V",
+        "Roosevelt, Theodore"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“The world does not need statues, relics of another age, that reflect neither the values of the person they intend to honor nor the values of equality and justice,” said Theodore Roosevelt IV, a great-grandson of the 26th president, said in a statement approving the removal.",
+          "copyright": "Caitlin Ochs for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/arts/22statue3/22statue3-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/arts/22statue3/22statue3-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/22/arts/22statue3/22statue3-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ccbca2f2-7cb5-5812-91fe-e03588b518c5",
+      "url": "https://www.nytimes.com/2020/06/18/us/trump-daca-supreme-court.html",
+      "id": 100000007071994,
+      "asset_id": 100000007071994,
+      "source": "New York Times",
+      "published_date": "2020-06-18",
+      "updated": "2020-06-19 11:33:08",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Immigration and Emigration;Illegal Immigration;Deferred Action for Childhood Arrivals;Courts and the Judiciary;Decisions and Verdicts;Trump, Donald J;Supreme Court (US);Homeland Security Department;Immigration and Customs Enforcement (US)",
+      "column": null,
+      "byline": "By Adam Liptak and Michael D. Shear",
+      "type": "Article",
+      "title": "Trump Can’t Immediately End DACA, Supreme Court Rules",
+      "abstract": "The program, Deferred Action for Childhood Arrivals, protects people brought to the United States as children by shielding them from deportation and letting them work.",
+      "des_facet": [
+        "Immigration and Emigration",
+        "Illegal Immigration",
+        "Deferred Action for Childhood Arrivals",
+        "Courts and the Judiciary",
+        "Decisions and Verdicts"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/257e0d6c-1967-5236-b450-5bb181611a87",
+      "url": "https://www.nytimes.com/2020/06/20/us/politics/tulsa-trump-rally.html",
+      "id": 100000007201867,
+      "asset_id": 100000007201867,
+      "source": "New York Times",
+      "published_date": "2020-06-20",
+      "updated": "2020-06-22 09:53:58",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Coronavirus (2019-nCoV);Juneteenth;George Floyd Protests (2020);Black Lives Matter Movement;Trump, Donald J;Tulsa (Okla)",
+      "column": null,
+      "byline": "By Michael D. Shear, Maggie Haberman and Astead W. Herndon",
+      "type": "Article",
+      "title": "Trump Rally Fizzles as Attendance Falls Short of Campaign’s Expectations",
+      "abstract": "President Trump’s attempt to revive his re-election bid sputtered badly as he traveled to Tulsa for his first mass rally in months but found a small crowd and delivered a disjointed speech.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)",
+        "Juneteenth",
+        "George Floyd Protests (2020)",
+        "Black Lives Matter Movement"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/953aebe9-0352-5c11-99a9-81bd671cf5b2",
+      "url": "https://www.nytimes.com/2020/06/20/nyregion/trump-geoffrey-berman-fired-sdny.html",
+      "id": 100000007201959,
+      "asset_id": 100000007201959,
+      "source": "New York Times",
+      "published_date": "2020-06-20",
+      "updated": "2020-06-21 20:29:44",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "United States Attorneys;United States Politics and Government;Appointments and Executive Changes;Barr, William P;Berman, Geoffrey S;Clayton, Walter J;Trump, Donald J;Giuliani, Rudolph W;Justice Department;Manhattan (NYC)",
+      "column": null,
+      "byline": "By Alan Feuer, Katie Benner, Ben Protess, Maggie Haberman, William K. Rashbaum, Nicole Hong and Benjamin Weiser",
+      "type": "Article",
+      "title": "Trump Fires U.S. Attorney in New York Who Investigated His Inner Circle",
+      "abstract": "The president’s move heightened criticism that he was purging his administration of officials whose independence could be a threat to his re-election.",
+      "des_facet": [
+        "United States Attorneys",
+        "United States Politics and Government",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Barr, William P",
+        "Berman, Geoffrey S",
+        "Clayton, Walter J",
+        "Trump, Donald J",
+        "Giuliani, Rudolph W"
+      ],
+      "geo_facet": [
+        "Manhattan (NYC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Geoffrey S. Berman, who had been in office since 2018, initially declined to leave his post.",
+          "copyright": "Hiroko Masuike/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/nyregion/20nyberman-1/merlin_173742474_9c6aa14f-e895-46b2-882f-a60e547cb7fb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/nyregion/20nyberman-1/merlin_173742474_9c6aa14f-e895-46b2-882f-a60e547cb7fb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/nyregion/20nyberman-1/merlin_173742474_9c6aa14f-e895-46b2-882f-a60e547cb7fb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a3d78b17-7bbc-52d1-9d0d-0250fb632dab",
+      "url": "https://www.nytimes.com/2020/06/19/nyregion/us-attorney-manhattan-trump.html",
+      "id": 100000007201671,
+      "asset_id": 100000007201671,
+      "source": "New York Times",
+      "published_date": "2020-06-19",
+      "updated": "2020-06-22 12:58:34",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "United States Attorneys;United States Politics and Government;Appointments and Executive Changes;Barr, William P;Berman, Geoffrey S;Clayton, Walter J;Trump, Donald J;Justice Department",
+      "column": null,
+      "byline": "By Benjamin Weiser, William K. Rashbaum, Nicole Hong, Maggie Haberman and Katie Benner",
+      "type": "Article",
+      "title": "Clash Over U.S. Attorney Who Investigated Trump Associates Sets Off Crisis",
+      "abstract": "Attorney General William Barr tried to fire the U.S. attorney in Manhattan, Geoffrey Berman, but he is refusing to leave.",
+      "des_facet": [
+        "United States Attorneys",
+        "United States Politics and Government",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Barr, William P",
+        "Berman, Geoffrey S",
+        "Clayton, Walter J",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Geoffrey S. Berman, the U.S. attorney in Manhattan.",
+          "copyright": "Jefferson Siegel for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21usattourney-p1sub/19xp-Clayton-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21usattourney-p1sub/19xp-Clayton-2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21usattourney-p1sub/19xp-Clayton-2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9b7e151d-e085-5c24-a38a-35bb349d5051",
+      "url": "https://www.nytimes.com/2020/06/21/us/politics/trump-tulsa-rally.html",
+      "id": 100000007202608,
+      "asset_id": 100000007202608,
+      "source": "New York Times",
+      "published_date": "2020-06-21",
+      "updated": "2020-06-22 17:40:33",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Trump, Donald J;Parscale, Brad (1976- );Republican Party;Tulsa (Okla)",
+      "column": null,
+      "byline": "By Maggie Haberman and Annie Karni",
+      "type": "Article",
+      "title": "The President’s Shock at the Rows of Empty Seats in Tulsa",
+      "abstract": "Inside the campaign, advisers believe disappointing attendance at the rally shows genuine fear of the coronavirus and the reality of President Trump’s sliding poll numbers.",
+      "des_facet": [
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Parscale, Brad (1976- )"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attendance was less than expected at President Trump’s rally in Tulsa, Okla., on Saturday.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21trump-campaign/21trump-campaign-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21trump-campaign/21trump-campaign-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/21/us/politics/21trump-campaign/21trump-campaign-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f356f280-4985-5420-b40e-5ba9f2d0cfe6",
+      "url": "https://www.nytimes.com/2020/06/20/us/politics/trump-factcheck-tulsa-rally.html",
+      "id": 100000007202278,
+      "asset_id": 100000007202278,
+      "source": "New York Times",
+      "published_date": "2020-06-20",
+      "updated": "2020-06-21 10:18:45",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Coronavirus (2019-nCoV);Illegal Immigration;Demonstrations, Protests and Riots;Coronavirus Reopenings;Trump, Donald J;Biden, Joseph R Jr;Tulsa (Okla)",
+      "column": null,
+      "byline": "By Linda Qiu and Reid J. Epstein",
+      "type": "Article",
+      "title": "Fact-Checking Trump’s Tulsa Rally: Covid-19, Protesters and Biden",
+      "abstract": "In his first rally in months, President Trump made multiple statements that were false, misleading or lacked evidence.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)",
+        "Illegal Immigration",
+        "Demonstrations, Protests and Riots",
+        "Coronavirus Reopenings"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump spoke Saturday night in Tulsa, Okla.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20dc-factcheck-pix/20dc-factcheck-pix-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20dc-factcheck-pix/20dc-factcheck-pix-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20dc-factcheck-pix/20dc-factcheck-pix-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1760d5a9-65a2-55a0-a0c5-0f7da675c505",
+      "url": "https://www.nytimes.com/2020/06/15/books/mary-trump-book.html",
+      "id": 100000007191330,
+      "asset_id": 100000007191330,
+      "source": "New York Times",
+      "published_date": "2020-06-15",
+      "updated": "2020-06-23 17:48:15",
+      "section": "Books",
+      "subsection": "",
+      "nytdsection": "books",
+      "adx_keywords": "United States Politics and Government;Books and Literature;Tax Evasion;Trump, Donald J;Trump, Mary L;New York Times",
+      "column": null,
+      "byline": "By Neil Vigdor and Alexandra Alter",
+      "type": "Article",
+      "title": "Trump’s Niece to Publish Book With ‘Harrowing’ Revelations",
+      "abstract": "Mary Trump will say that she was a source of The New York Times’s coverage of the president’s tax returns. The Times declined to comment on the claim.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Books and Literature",
+        "Tax Evasion"
+      ],
+      "org_facet": [
+        "New York Times"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Trump, Mary L"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump walking off Air Force One at Joint Base Andrews, Md., on Sunday.",
+          "copyright": "Anna Moneymaker/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/14/us/politics/14xp-marytrump1/14xp-marytrump1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/14/us/politics/14xp-marytrump1/14xp-marytrump1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/14/us/politics/14xp-marytrump1/14xp-marytrump1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/01ae5e1a-2ead-5d34-90f6-613730a3c5b0",
+      "url": "https://www.nytimes.com/2020/06/14/us/politics/trump-ramp-water-glass-health.html",
+      "id": 100000007190460,
+      "asset_id": 100000007190460,
+      "source": "New York Times",
+      "published_date": "2020-06-14",
+      "updated": "2020-06-15 10:32:30",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Commencement Speeches;Trump, Donald J;United States Military Academy",
+      "column": null,
+      "byline": "By Maggie Haberman",
+      "type": "Article",
+      "title": "Trump’s Halting Walk Down Ramp Raises New Health Questions",
+      "abstract": "The president also appeared to have trouble raising a glass of water to his mouth during a speech at West Point a day before he turned 74, the oldest a president has been in his first term.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Commencement Speeches"
+      ],
+      "org_facet": [
+        "United States Military Academy"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a0e0102e-ba17-5798-8267-ba78dc2aaf66",
+      "url": "https://www.nytimes.com/2020/06/21/business/nursing-homes-evictions-discharges-coronavirus.html",
+      "id": 100000007195794,
+      "asset_id": 100000007195794,
+      "source": "New York Times",
+      "published_date": "2020-06-21",
+      "updated": "2020-06-23 18:05:45",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Nursing Homes;Elder Abuse;Evictions;Homeless Persons;Coronavirus (2019-nCoV);Medicaid;Medicare;Lakeview Terrace Skilled Nursing Facility (Los Angeles, Calif);Rockport Healthcare Group Inc;Silvercrest Center for Nursing and Rehabilitation (Queens, NY);United States",
+      "column": null,
+      "byline": "By Jessica Silver-Greenberg and Amy Julia Harris",
+      "type": "Article",
+      "title": "‘They Just Dumped Him Like Trash’: Nursing Homes Evict Vulnerable Residents",
+      "abstract": "Nursing homes across the country are kicking out old and disabled residents and sending them to homeless shelters and rundown motels.",
+      "des_facet": [
+        "Nursing Homes",
+        "Elder Abuse",
+        "Evictions",
+        "Homeless Persons",
+        "Coronavirus (2019-nCoV)",
+        "Medicaid",
+        "Medicare"
+      ],
+      "org_facet": [
+        "Lakeview Terrace Skilled Nursing Facility (Los Angeles, Calif)",
+        "Rockport Healthcare Group Inc",
+        "Silvercrest Center for Nursing and Rehabilitation (Queens, NY)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lakeview Terrace, a nursing home in Los Angeles, evicted RC Kendrick, an 88-year-old man with dementia.",
+          "copyright": "Andrew Cullen for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/business/00Virus-Evictions-lakeview-01/00Virus-Evictions-lakeview-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/business/00Virus-Evictions-lakeview-01/merlin_173678574_d42ebf58-15fe-4d54-ba06-d55a9b73da76-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/business/00Virus-Evictions-lakeview-01/merlin_173678574_d42ebf58-15fe-4d54-ba06-d55a9b73da76-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2daf7109-ce36-54ce-ba06-14c2485b30a5",
+      "url": "https://www.nytimes.com/2020/06/16/us/politics/trump-coronavirus-rally.html",
+      "id": 100000007192519,
+      "asset_id": 100000007192519,
+      "source": "New York Times",
+      "published_date": "2020-06-16",
+      "updated": "2020-06-19 11:52:42",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus Risks and Safety Concerns;Coronavirus (2019-nCoV);United States Politics and Government;Coronavirus Reopenings;Presidential Election of 2020;Trump, Donald J;Tulsa (Okla)",
+      "column": null,
+      "byline": "By Noah Weiland",
+      "type": "Article",
+      "title": "Tulsa Officials Plead for Trump to Cancel Rally as Virus Spikes in Oklahoma",
+      "abstract": "President Trump will hold his first campaign rally in months on Saturday in Oklahoma, where infections are rising, and officials there are pleading with him to cancel or hold it outdoors.",
+      "des_facet": [
+        "Coronavirus Risks and Safety Concerns",
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government",
+        "Coronavirus Reopenings",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People wearing masks during a protest last month in Tulsa, Okla. The number of active coronavirus cases in Tulsa County reached record levels this week.",
+          "copyright": "Ian Maule/Tulsa World, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/us/politics/16dc-virus-tulsa1/16dc-virus-tulsa1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/us/politics/16dc-virus-tulsa1/merlin_173012235_9c3ba86e-2359-4dc3-aa80-23777ed7151e-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/us/politics/16dc-virus-tulsa1/merlin_173012235_9c3ba86e-2359-4dc3-aa80-23777ed7151e-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b4beced9-2378-553c-8c13-f4cae962a8b4",
+      "url": "https://www.nytimes.com/2018/03/30/us/baton-rouge-alton-sterling.html",
+      "id": 100000005827531,
+      "asset_id": 100000005827531,
+      "source": "New York Times",
+      "published_date": "2018-03-30",
+      "updated": "2018-04-19 10:59:26",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Blacks;Police Brutality, Misconduct and Shootings;Sterling, Alton B (1979-2016);Salamoni, Blane M (1987- );Lake, Howie J II;Broome, Sharon Weston;Baton Rouge (La)",
+      "column": null,
+      "byline": "By Richard Fausset",
+      "type": "Article",
+      "title": "Baton Rouge Officer Is Fired in Alton Sterling Case as Police Release New Videos",
+      "abstract": "The disciplinary actions are the first serious consequences for both men after state and federal officials declined to bring criminal charges.",
+      "des_facet": [
+        "Blacks",
+        "Police Brutality, Misconduct and Shootings"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Sterling, Alton B (1979-2016)",
+        "Salamoni, Blane M (1987- )",
+        "Lake, Howie J II",
+        "Broome, Sharon Weston"
+      ],
+      "geo_facet": [
+        "Baton Rouge (La)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "via Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/03/31/briefing/31batonrouge/31batonrouge-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/03/31/briefing/31batonrouge/31batonrouge-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/03/31/briefing/31batonrouge/31batonrouge-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1ce66612-0984-5acf-b1fd-8b24b3121650",
+      "url": "https://www.nytimes.com/2020/06/12/opinion/sunday/floyd-abolish-defund-police.html",
+      "id": 100000007178486,
+      "asset_id": 100000007178486,
+      "source": "New York Times",
+      "published_date": "2020-06-12",
+      "updated": "2020-06-22 13:18:28",
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "nytdsection": "opinion",
+      "adx_keywords": "George Floyd Protests (2020);Black Lives Matter Movement;Police Brutality, Misconduct and Shootings;Police Reform;United States",
+      "column": null,
+      "byline": "By Mariame Kaba",
+      "type": "Article",
+      "title": "Yes, We Mean Literally Abolish the Police",
+      "abstract": "Because reform won’t happen.",
+      "des_facet": [
+        "George Floyd Protests (2020)",
+        "Black Lives Matter Movement",
+        "Police Brutality, Misconduct and Shootings",
+        "Police Reform"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": " ",
+          "copyright": "Illustration by Nicholas Konrad; photograph by Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/opinion/14kaba_sub2/14kaba_sub2-thumbStandard-v8.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/opinion/14kaba_sub2/14kaba_sub2-mediumThreeByTwo210-v8.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/15/opinion/14kaba_sub2/14kaba_sub2-mediumThreeByTwo440-v8.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5f9f1bc7-549a-5ab4-bdac-6e00a87e3d74",
+      "url": "https://www.nytimes.com/2020/06/18/us/politics/facebook-trump-ads-antifa-red-triangle.html",
+      "id": 100000007198405,
+      "asset_id": 100000007198405,
+      "source": "New York Times",
+      "published_date": "2020-06-18",
+      "updated": "2020-06-19 13:05:35",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Antifa Movement (US);Holocaust and the Nazi Era;Presidential Election of 2020;Political Advertising;Social Media;Symbols;Trump, Donald J;Facebook Inc",
+      "column": null,
+      "byline": "By Annie Karni",
+      "type": "Article",
+      "title": "Facebook Removes Trump Ads Displaying Symbol Used by Nazis",
+      "abstract": "Nazis used a red triangle to classify political prisoners during World War II. The Trump campaign said the red triangle in its Facebook ads was associated with antifa, a claim experts rejected.",
+      "des_facet": [
+        "Antifa Movement (US)",
+        "Holocaust and the Nazi Era",
+        "Presidential Election of 2020",
+        "Political Advertising",
+        "Social Media",
+        "Symbols"
+      ],
+      "org_facet": [
+        "Facebook Inc"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Facebook said it removed the Trump campaign’s ads for “violating our policy against organized hate.”",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/us/politics/18TRUMP-REDTRIANGLE/merlin_173635575_c8465a68-3717-4d79-96b0-34f5356891c1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/us/politics/18TRUMP-REDTRIANGLE/merlin_173635575_c8465a68-3717-4d79-96b0-34f5356891c1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/us/politics/18TRUMP-REDTRIANGLE/merlin_173635575_c8465a68-3717-4d79-96b0-34f5356891c1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/025e2891-057d-5f4c-8c84-604c088f13a2",
+      "url": "https://www.nytimes.com/2020/06/15/opinion/coronavirus-college-safe.html",
+      "id": 100000007185873,
+      "asset_id": 100000007185873,
+      "source": "New York Times",
+      "published_date": "2020-06-15",
+      "updated": "2020-06-18 16:30:10",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Colleges and Universities;Coronavirus (2019-nCoV);Coronavirus Reopenings;Age, Chronological;Youth;Coronavirus Risks and Safety Concerns;United States",
+      "column": null,
+      "byline": "By Laurence Steinberg",
+      "type": "Article",
+      "title": "Expecting Students to Play It Safe if Colleges Reopen Is a Fantasy",
+      "abstract": "Safety plans border on delusional and could lead to outbreaks of Covid-19 among students, faculty and staff.",
+      "des_facet": [
+        "Colleges and Universities",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings",
+        "Age, Chronological",
+        "Youth",
+        "Coronavirus Risks and Safety Concerns"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students on the campus of Columbia University in March.",
+          "copyright": "Hiroko Masuike/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/opinion/15steinbergWeb/15steinbergWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/opinion/15steinbergWeb/merlin_170402568_075aac78-e234-4bb4-a460-a53fbda9709d-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/16/opinion/15steinbergWeb/merlin_170402568_075aac78-e234-4bb4-a460-a53fbda9709d-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/33d9ce4e-4399-5896-b986-4d6c23162def",
+      "url": "https://www.nytimes.com/article/juneteenth-day-celebration.html",
+      "id": 100000007185972,
+      "asset_id": 100000007185972,
+      "source": "New York Times",
+      "published_date": "2020-06-13",
+      "updated": "2020-06-22 12:11:32",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Black People;Slavery (Historical);Emancipation Proclamation (1863);United States Politics and Government;Juneteenth;Trump, Donald J;Galveston (Tex);Tulsa (Okla)",
+      "column": null,
+      "byline": "By Derrick Bryson Taylor",
+      "type": "Article",
+      "title": "So You Want to Learn About Juneteenth?",
+      "abstract": "On June 19, 1865, enslaved African-Americans in Galveston, Texas, were told they were free. Now, 155 years later, people in cities and towns across the U.S. continue to mark the occasion with celebrations.",
+      "des_facet": [
+        "Black People",
+        "Slavery (Historical)",
+        "Emancipation Proclamation (1863)",
+        "United States Politics and Government",
+        "Juneteenth"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Galveston (Tex)",
+        "Tulsa (Okla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Juneteenth parade in Flint, Mich., in 2018.",
+          "copyright": "Jake May/The Flint Journal, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/14/briefing/14xp-juneteenth-explainer-print1/19ambriefing-asia-slide-slide-I6QG-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/14/briefing/14xp-juneteenth-explainer-print1/19ambriefing-asia-slide-slide-I6QG-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/14/briefing/14xp-juneteenth-explainer-print1/19ambriefing-asia-slide-slide-I6QG-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/9fc9855b-ebb9-5051-8dd0-c6d4aa9539e5",
+      "url": "https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html",
+      "id": 100000007202296,
+      "asset_id": 100000007202296,
+      "source": "New York Times",
+      "published_date": "2020-06-21",
+      "updated": "2020-06-22 10:51:12",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2020;Social Media;Teenagers and Adolescence;Hoaxes and Pranks;Demonstrations, Protests and Riots;Pop and Rock Music;Trump, Donald J;TikTok (ByteDance);Twitter;Tulsa (Okla);South Korea",
+      "column": null,
+      "byline": "By Taylor Lorenz, Kellen Browning and Sheera Frenkel",
+      "type": "Article",
+      "title": "TikTok Teens and K-Pop Stans Say They Sank Trump Rally",
+      "abstract": "Did a successful prank inflate attendance expectations for President Trump’s rally in Tulsa, Okla.?",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Social Media",
+        "Teenagers and Adolescence",
+        "Hoaxes and Pranks",
+        "Demonstrations, Protests and Riots",
+        "Pop and Rock Music"
+      ],
+      "org_facet": [
+        "TikTok (ByteDance)",
+        "Twitter"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Tulsa (Okla)",
+        "South Korea"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Many of the arena’s 19,000 seats remained empty as Mr. Trump spoke.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20trump-tulsa-n5/20trump-tulsa-n5-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20trump-tulsa-n5/20trump-tulsa-n5-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/20/us/politics/20trump-tulsa-n5/20trump-tulsa-n5-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
+

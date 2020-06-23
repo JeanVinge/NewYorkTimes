@@ -58,9 +58,10 @@ public struct URLEncoding: ParameterEncoding {
     public func encode(_ urlRequest: URLRequestConvertible, with parameters: CoreAPI.Parameters?) throws -> URLRequest {
         var urlRequest = try urlRequest.asURLRequest()
 
-        guard let parameters = parameters else { return urlRequest }
+        guard let parameters = parameters,
+            let httpMethod = urlRequest.httpMethod?.lowercased() else { return urlRequest }
 
-        if let method = Method(rawValue: urlRequest.httpMethod?.lowercased() ?? "get"),
+        if let method = Method(rawValue: httpMethod),
             encodesParametersInURL(with: method) {
             guard let url = urlRequest.url else {
                 throw APIErrors.parameterEncodingFailed(reason: .missingURL)
