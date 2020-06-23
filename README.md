@@ -1,4 +1,4 @@
-# New york times reader.
+# New york times reader 📱
 
 ## Requirements
 
@@ -12,7 +12,7 @@
 - [x] handles internet failure, and stores executed request result,
 - [x] implemented emailed, shared and viewed tabs, as proposed in test.
 
-## Building and runnning:
+## Building and runnning
 
 In order to execute the app you need to do the following steps:
 
@@ -28,7 +28,11 @@ The diagram shows how the app was designed, and here we are going to explain eac
 ## Modules
 
 [App](/App/README.md)
+
 [Appearence](/Appearence/README.md)
+
 [Feature](/Feature/README.md)
+
 [NetworkLayer](/NetworkLayer/README.md)
+
 [Utilities](/Utilities/README.md)
