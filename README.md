@@ -27,8 +27,8 @@ The diagram shows how the app was designed, and here we are going to explain eac
 
 ## Modules
 
-[App](app/README.md)
-[Appearence](Appearence/README.md)
-[Feature](Feature/README.md)
-[NetworkLayer](App/README.md)
-[Utilities](Utilities/README.md)
+[App](/App/README.md)
+[Appearence](/Appearence/README.md)
+[Feature](/Feature/README.md)
+[NetworkLayer](/NetworkLayer/README.md)
+[Utilities](/Utilities/README.md)
