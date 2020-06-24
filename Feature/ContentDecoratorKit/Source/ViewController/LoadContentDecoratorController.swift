@@ -23,7 +23,7 @@ public class LoadContentDecoratorController: UIViewController {
     }
 
     public override func loadView() {
-        self.view = UIView()
+        view = UIView()
         add(child: contentViewController)
     }
 

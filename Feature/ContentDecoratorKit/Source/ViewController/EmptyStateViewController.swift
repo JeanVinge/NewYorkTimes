@@ -11,7 +11,7 @@ public final class EmptyStateViewController: UIViewController {
     // MARK: Init
 
     public override func loadView() {
-        self.view = emptyStateView
+        view = emptyStateView
     }
 }
 

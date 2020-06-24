@@ -72,4 +72,20 @@ class NewYorkTimesFetcherTests: XCTestCase {
             }
             wait(for: [expec], timeout: 0.5)
     }
+
+    func test_errorNews() {
+
+         let expec = expectation(description: "Expec that request gives error")
+
+             var fetcher = NewYorkTimesFetcher(MockRequestManager(.error))
+             fetcher.newsList().observe { result in
+                 switch result {
+                 case .success:
+                    XCTFail("request should give error")
+                 case .failure:
+                    expec.fulfill()
+                 }
+             }
+             wait(for: [expec], timeout: 0.5)
+     }
 }

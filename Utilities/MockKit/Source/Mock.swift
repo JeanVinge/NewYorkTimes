@@ -9,6 +9,7 @@ public enum MockFile: String {
     case emailed
     case shared
     case viewed
+    case error
 }
 
 public enum Mock<T: Decodable> {
@@ -42,8 +43,8 @@ public enum Mock<T: Decodable> {
             return try decoder.decode(T.self, from: data())
         case let .string( _, decoder):
             return try decoder.decode(T.self, from: data())
-        case .from:
-            return try JSONDecoder().decode(T.self, from: Data())
+        case .from(let type):
+            return try JSONDecoder().decode(T.self, from: Mock<T>.from(enum: type).data())
         }
     }
 }

@@ -37,11 +37,6 @@ final public class NewsListViewController: UIViewController {
     public override func loadView() {
         self.view = UIView()
         buildUI()
-        DispatchQueue.main.async { [weak self] in
-            guard let self = self else { return }
-            self.responder = self.find(LoadingStateResponder.self)
-            self.requestList()
-        }
     }
 
     private func buildUI() {
@@ -54,6 +49,12 @@ final public class NewsListViewController: UIViewController {
             $0.leading.equalToSuperView()
             $0.trailing.equalToSuperView()
             $0.bottom.equalToSuperView()
+        }
+
+        DispatchQueue.main.async { [weak self] in
+            guard let self = self else { return }
+            self.responder = self.find(LoadingStateResponder.self)
+            self.requestList()
         }
     }
 

@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3925F26D24A2CB290025EBED /* empty.json in Resources */ = {isa = PBXBuildFile; fileRef = 3925F26C24A2CB290025EBED /* empty.json */; };
+		3925F28C24A380250025EBED /* error.json in Resources */ = {isa = PBXBuildFile; fileRef = 3925F28B24A380250025EBED /* error.json */; };
 		397482BE24A2947B008A055D /* MockKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 397482BC24A2947B008A055D /* MockKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		397482C424A294A1008A055D /* Mock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 397482C324A294A1008A055D /* Mock.swift */; };
 		397482C924A2951F008A055D /* Encodable+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 397482C824A2951F008A055D /* Encodable+Extension.swift */; };
@@ -32,6 +33,7 @@
 
 /* Begin PBXFileReference section */
 		3925F26C24A2CB290025EBED /* empty.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = empty.json; sourceTree = "<group>"; };
+		3925F28B24A380250025EBED /* error.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = error.json; sourceTree = "<group>"; };
 		3948E22A249D0BA6006C38CF /* NewsType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsType.swift; sourceTree = "<group>"; };
 		397482BA24A2947B008A055D /* MockKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MockKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		397482BC24A2947B008A055D /* MockKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MockKit.h; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				397482E824A2A58F008A055D /* shared.json */,
 				397482EA24A2A59A008A055D /* viewed.json */,
 				3925F26C24A2CB290025EBED /* empty.json */,
+				3925F28B24A380250025EBED /* error.json */,
 			);
 			path = json;
 			sourceTree = "<group>";
@@ -395,6 +398,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3925F28C24A380250025EBED /* error.json in Resources */,
 				397482EB24A2A59A008A055D /* viewed.json in Resources */,
 				3925F26D24A2CB290025EBED /* empty.json in Resources */,
 				397482CF24A297E9008A055D /* news.json in Resources */,

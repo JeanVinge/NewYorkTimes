@@ -11,7 +11,7 @@ public class LoadingViewController: UIViewController {
     // MARK: Init
 
     public override func loadView() {
-        self.view = loadingView
+        view = loadingView
     }
 
     public func startLoading() { loadingView.startLoading() }
