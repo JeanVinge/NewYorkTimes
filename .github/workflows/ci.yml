@@ -10,6 +10,8 @@ jobs:
         destination: ['platform=iOS Simulator,OS=13.3,name=iPhone 8', 'platform=iOS Simulator,OS=13.3,name=iPhone 11 Pro']
         scheme: ['TestEverything']
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
       - name: Build and test
         run: xcodebuild -workspace new-york-times-ios.xcworkspace -scheme "${scheme}" -sdk iphonesimulator -destination "${destination}" test
     env:
