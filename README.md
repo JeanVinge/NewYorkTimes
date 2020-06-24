@@ -4,6 +4,10 @@
 
 - [x] XCode 11.x
 
+## Demo
+
+![image](resources/demo.gif)
+
 ## Features
 
 - [x] landscape and portrait orientation,
@@ -24,9 +28,11 @@ In order to execute the app you need to do the following steps:
 
 ![Image](resources/diagram.png)
 
-The diagram shows how the app was built, the architecture focused on modularity, was decided to separate in five projects, feature, utilities, network layer, appearence and app. 
-The decision was for to maximize the hability to reuse code, and make fast choices, by doing it you can build entire app with some features plugged, also inside each project there are modules. 
-The project has a name that associate with a responsability and the module has a implementation, for example, Feature has this name because each module is a specific feature, there's NewsListKit, it's a module that has the list of news, and if you want to plug in another context, you can do it really quick without been tied to some other implementations, that's the power of SOLID.
+The diagram shows how the app was built, the architecture focused on modularity, was decided to separate in five projects, *feature*, *utilities*, *network layer*, *appearence* and *app*. 
+
+The decision was for maximize the hability to reuse code and make fast choices, by doing it you can build entire app and plug whatever you want. 
+
+The project has a name that associate with a responsability and the module inside has the implementation, for example, *feature* has this name because each module is a specific feature, there's *NewsListKit*, it's a module that has the list of news, and if you want to plug in a context, you can do it really quick without been tied to some other implementations, that's the power of SOLID.
 
 ## Main concepts
 
@@ -35,7 +41,7 @@ The project has a name that associate with a responsability and the module has a
 
 ## Modules
 
-Here will be explained each project and how they work.
+Here will be explained each project and the modules inside and what they are responsible for.
 
 - [App](/App/README.md)
 - [Appearence](/Appearence/README.md)

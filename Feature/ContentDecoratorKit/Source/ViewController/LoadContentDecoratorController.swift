@@ -50,7 +50,7 @@ public class LoadContentDecoratorController: UIViewController {
     }
 
     private func replace(with viewController: UIViewController) {
-        add(child: contentViewController)
+        add(child: viewController)
         children.forEach { vc in
             guard viewController != vc else { return }
             remove(child: vc)
