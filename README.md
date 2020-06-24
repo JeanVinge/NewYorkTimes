@@ -1,5 +1,7 @@
 # New York Times Reader 📱
 
+![CI](https://github.com/JeanVinge/new-york-times-ios/workflows/CI/badge.svg)
+
 ## Requirements
 
 - [x] XCode 11.x
