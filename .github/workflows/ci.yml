@@ -7,7 +7,7 @@ jobs:
     runs-on: macOS-latest
     strategy:
       matrix:
-        destination: ['platform=iOS Simulator,OS=13.3,name=iPhone 8', 'platform=iOS Simulator,OS=13.3,name=iPhone 11 Pro']
+        destination: ['platform=iOS Simulator,OS=13.5,name=iPhone 8', 'platform=iOS Simulator,OS=13.5,name=iPhone 11 Pro']
         scheme: ['TestEverything']
     steps:
       - name: Checkout Repository
