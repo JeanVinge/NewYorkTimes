@@ -24,16 +24,17 @@ In order to execute the app you need to do the following steps:
 
 ![Image](resources/diagram.png)
 
-The diagram shows how the app was designed, and here we are going to explain each of the modules described in the image above.
+The diagram shows how the app was built, all the details will be explained in details, the architecture focused on modularity, basically using solid concepts.
+
+## Main concepts
+
+- The app used SOLID concepts, which means the decision to prefer modularity, is also some concepts that requires isolation and single responsability.
+- Also the achitecture used Design Pattern for standard implementations, that for eg are factories and adapters.
 
 ## Modules
 
-[App](/App/README.md)
-
-[Appearence](/Appearence/README.md)
-
-[Feature](/Feature/README.md)
-
-[NetworkLayer](/NetworkLayer/README.md)
-
-[Utilities](/Utilities/README.md)
+- [App](/App/README.md)
+- [Appearence](/Appearence/README.md)
+- [Feature](/Feature/README.md)
+- [NetworkLayer](/NetworkLayer/README.md)
+- [Utilities](/Utilities/README.md)
