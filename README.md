@@ -40,6 +40,7 @@ The project has a name that associate with a responsability and the module insid
 
 - The app used SOLID concepts, which means the decision to prefer modularity, is also some concepts that requires isolation and single responsability.
 - Also the achitecture used Design Pattern for standard implementations, that for eg are factories and adapters.
+- The architecture is based on MVVM implementation.
 
 ## Modules
 
